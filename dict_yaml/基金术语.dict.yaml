@@ -1,0 +1,121 @@
+---
+name: 基金术语
+version: "20220504"
+sort: by_weight
+use_preset_vocabulary: true
+...
+重大事件主导的投资	zhong da shi jian zhu dao de tou zi	1
+相关系数	xiang guan xi shu	1
+界定供款计划	jie ding gong kuan ji hua	1
+界定利益计划	jie ding li yi ji hua	1
+封闭式基金	feng bi shi ji jin	1
+保本对冲基金	bao ben dui chong ji jin	1
+信托人	xin tuo ren	1
+非认可基金	fei ren ke ji jin	1
+阿尔法系数	a er fa xi shu	1
+表现费	biao xian fei	1
+股票基金	gu piao ji jin	1
+股息分派	gu xi fen pai	1
+股份	gu fen	1
+波幅	bo fu	1
+沽空	gu kong	1
+注册地	zhu ce di	1
+承受风险能力	cheng shou feng xian neng li	1
+定息基金	ding xi ji jin	1
+定息工具套戥	ding xi gong ju tao deng	1
+证券	zheng quan	1
+濒临破产的	bin lin po chan de	1
+受压	shou ya	1
+供款	gong kuan	1
+每年回报	mei nian hui bao	1
+每日估值	mei ri gu zhi	1
+杠杆借贷比率	gang gan jie dai bi lv	1
+杠杆	gang gan	1
+投资顾问	tou zi gu wen	1
+投资组合	tou zi zu he	1
+投资年期	tou zi nian qi	1
+均衡基金	jun heng ji jin	1
+自愿性供款	zi yuan xing gong kuan	1
+有限责任	you xian ze ren	1
+如计划为伞子基金	ru ji hua wei san zi ji jin	1
+地区基金	di qu ji jin	1
+合并套戥	he bing tao deng	1
+再投资	zai tou zi	1
+平均成本效益	ping jun cheng ben xiao yi	1
+市场中立	shi chang zhong li	1
+另类投资	ling lei tou zi	1
+债券	zhai quan	1
+可换股	ke huan gu	1
+主要经纪	zhu yao jing ji	1
+分散投资	fen san tou zi	1
+公积金计划	gong ji jin ji hua	1
+互惠基金	hu hui ji jin	1
+已调整风险回报	yi tiao zheng feng xian hui bao	1
+子基金	zi ji jin	1
+入息基金	ru xi ji jin	1
+主动式管理	zhu dong shi guan li	1
+预设回报率	yu she hui bao lv	1
+持货	chi huo	1
+好仓	hao cang	1
+长仓	chang cang	1
+短仓持股	duan cang chi gu	1
+长	chang	1
+进取型增长基金	jin qu xing zeng zhang ji jin	1
+进取型的投资管理	jin qu xing de tou zi guan li	1
+买入费	mai ru fei	1
+赎回费	shu hui fei	1
+赎回通知期	shu hui tong zhi qi	1
+赎回	shu hui	1
+资产净值	zi chan jing zhi	1
+资产分配	zi chan fen pei	1
+贝他系数	bei ta xi shu	1
+证券借出	zheng quan jie chu	1
+认购期权	ren gou qi quan	1
+认股权证基金	ren gu quan zheng ji jin	1
+认沽期权	ren gu qi quan	1
+认可基金	ren ke ji jin	1
+绝对回报	jue dui hui bao	1
+环球基金	huan qiu ji jin	1
+环球宏观	huan qiu hong guan	1
+毕苏期权定价模式	bi su qi quan ding jia mo shi	1
+标准差	biao zhun cha	1
+总回报	zong hui bao	1
+强积金	qiang ji jin	1
+强制性供款	qiang zhi xing gong kuan	1
+开放式基金	kai fang shi ji jin	1
+对冲基金指引	dui chong ji jin zhi yin	1
+对冲基金的基金	dui chong ji jin de ji jin	1
+对冲基金	dui chong ji jin	1
+对冲	dui chong	1
+奖励费	jiang li fei	1
+卖出价	mai chu jia	1
+单位信托基金	dan wei xin tuo ji jin	1
+单位	dan wei	1
+单一对冲基金	dan yi dui chong ji jin	1
+债券基金	zhai quan ji jin	1
+传统基金	chuan tong ji jin	1
+买卖差价	mai mai cha jia	1
+买入价	mai ru jia	1
+严格评估	yan ge ping gu	1
+增长和收入基金	zeng zhang he shou ru ji jin	1
+管理费	guan li fei	1
+新兴市场基金	xin xing shi chang ji jin	1
+新兴市场	xin xing shi chang	1
+新高价	xin gao jia	1
+雇员供款	gu yuan gong kuan	1
+雇主供款	gu zhu gong kuan	1
+跌势差	die shi cha	1
+短仓	duan cang	1
+期货管理型基金	qi huo guan li xing ji jin	1
+揣测最佳时机	chuai ce zui jia shi ji	1
+最大跌幅	zui da die fu	1
+离岸基金	li an ji jin	1
+被动式管理	bei dong shi guan li	1
+基准	ji zhun	1
+基金销售文件	ji jin xiao shou wen jian	1
+基金经理	ji jin jing li	1
+基金公会	ji jin gong hui	1
+高收益	gao shou yi	1
+效率前缘	xiao lv qian yuan	1
+套戥	tao deng	1
+首次认购费	shou ci ren gou fei	1

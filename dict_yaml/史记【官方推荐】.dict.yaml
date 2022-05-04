@@ -1,0 +1,961 @@
+---
+name: 史记【官方推荐】
+version: "20220504"
+sort: by_weight
+use_preset_vocabulary: true
+...
+狡兔三窟	jiao tu san ku	1
+鸡鸣狗盗	ji ming gou dao	1
+多多益善	duo duo yi shan	1
+肝脑涂地	gan nao tu di	1
+背水一战	bei shui yi zhan	1
+图穷匕见	tu qiong bi xian	1
+一字千金	yi zi qian jin	1
+纸上谈兵	zhi shang tan bing	1
+胶柱鼓瑟	jiao zhu gu se	1
+刎颈之交	wen jing zhi jiao	1
+怒发冲冠	nu fa chong guan	1
+负荆请罪	fu jing qing zui	1
+一言九鼎	yi yan jiu ding	1
+因人成事	yin ren cheng shi	1
+歃血为盟	sha xue wei meng	1
+脱颖而出	tuo ying er chu	1
+积毁销骨	ji hui xiao gu	1
+鸿鹄之志	hong hu zhi zhi	1
+韦编三绝	wei bian san jue	1
+招摇过市	zhao yao guo shi	1
+一狐之腋	yi hu zhi ye	1
+鸟尽弓藏	niao jin gong cang	1
+卧薪尝胆	wo xin chang dan	1
+高屋建瓴	gao wu jian ling	1
+运筹帷幄	yun chou wei wo	1
+暗度陈仓	an du chen cang	1
+明修栈道	ming xiu zhan dao	1
+约法三章	yue fa san zhang	1
+一败涂地	yi bai tu di	1
+无颜见江东父老	wu yan jian jiang dong fu lao	1
+四面楚歌	si mian chu ge	1
+霸王别姬	ba wang bie ji	1
+沐猴而冠	mu hou er guan	1
+意在沛公	yi zai pei gong	1
+项庄舞剑	xiang zhuang wu jian	1
+鸿门宴	hong men yan	1
+破釜沉舟	po fu chen zhou	1
+先发制人	xian fa zhi ren	1
+拔山扛鼎	ba shan gang ding	1
+指鹿为马	zhi lu wei ma	1
+焚书坑儒	fen shu keng ru	1
+左支右绌	zuo zhi you chu	1
+酒肉池林	jiu rou chi lin	1
+囊血射天	nang xue she tian	1
+网开一面	wang kai yi mian	1
+轩辕天子	xuan yuan tian zi	1
+鲁周公世家	lu zhou gong shi jia	1
+齐太公世家	qi tai gong shi jia	1
+吴太伯世家	wu tai bo shi jia	1
+平准书	ping zhun shu	1
+河渠书	he qu shu	1
+封禅书	feng shan shu	1
+天官书	tian guan shu	1
+历书	li shu	1
+律书	lv shu	1
+乐书	yue shu	1
+礼书	li shu	1
+货殖列传	huo zhi lie zhuan	1
+龟策列传	gui ce lie zhuan	1
+日者列传	ri zhe lie zhuan	1
+滑稽列传	hua ji lie zhuan	1
+佞幸列传	ning xing lie zhuan	1
+游侠列传	you xia lie zhuan	1
+大宛列传	da wan lie zhuan	1
+酷吏列传	ku li lie zhuan	1
+儒林列传	ru lin lie zhuan	1
+汲郑列传	ji zheng lie zhuan	1
+循吏列传	xun li lie zhuan	1
+淮南衡山列传	huai nan heng shan lie zhuan	1
+司马相如列传	si ma xiang ru lie zhuan	1
+西南夷列传	xi nan yi lie zhuan	1
+朝鲜列传	chao xian lie zhuan	1
+东越列传	dong yue lie zhuan	1
+南越列传	nan yue lie zhuan	1
+平津侯主父列传	ping jin hou zhu fu lie zhuan	1
+卫将军骠骑列传	wei jiang jun piao qi lie zhuan	1
+匈奴列传	xiong nu lie zhuan	1
+李将军列传	li jiang jun lie zhuan	1
+韩长孺列传	han chang ru lie zhuan	1
+魏其武安侯列传	wei qi wu an hou lie zhuan	1
+吴王濞列传	wu wang bi lie zhuan	1
+扁鹊仓公列传	bian que cang gong lie zhuan	1
+田叔列传	tian shu lie zhuan	1
+万石张叔列传	wan shi zhang shu lie zhuan	1
+张释之冯唐列传	zhang shi zhi feng tang lie zhuan	1
+袁盎晁错列传	yuan ang chao cuo lie zhuan	1
+季布栾布列传	ji bu luan bu lie zhuan	1
+刘敬叔孙通列传	liu jing shu sun tong lie zhuan	1
+傅靳蒯成列传	fu jin kuai cheng lie zhuan	1
+郦生陆贾列传	li sheng lu jia lie zhuan	1
+张丞相列传	zhang cheng xiang lie zhuan	1
+樊郦滕灌列传	fan li teng guan lie zhuan	1
+田儋列传	tian dan lie zhuan	1
+韩信卢绾列传	han xin lu wan lie zhuan	1
+淮阴侯列传	huai yin hou lie zhuan	1
+黥布列传	qing bu lie zhuan	1
+魏豹彭越列传	wei bao peng yue lie zhuan	1
+张耳陈余列传	zhang er chen yu lie zhuan	1
+蒙恬列传	meng tian lie zhuan	1
+李斯列传	li si lie zhuan	1
+吕不韦列传	lv bu wei lie zhuan	1
+屈原贾生列传	qu yuan jia sheng lie zhuan	1
+鲁仲连邹阳列传	lu zhong lian zou yang lie zhuan	1
+田单列传	tian dan lie zhuan	1
+乐毅列传	yue yi lie zhuan	1
+范睢蔡泽列传	fan sui cai ze lie zhuan	1
+春申君列传	chun shen jun lie zhuan	1
+魏公子列传	wei gong zi lie zhuan	1
+平原君虞卿列传	ping yuan jun yu qing lie zhuan	1
+孟尝君列传	meng chang jun lie zhuan	1
+孟子荀卿列传	meng zi xun qing lie zhuan	1
+白起王翦列传	bai qi wang jian lie zhuan	1
+穰侯列传	rang hou lie zhuan	1
+樗里子甘茂列传	chu li zi gan mao lie zhuan	1
+张仪列传	zhang yi lie zhuan	1
+苏秦列传	su qin lie zhuan	1
+商君列传	shang jun lie zhuan	1
+仲尼弟子列传	zhong ni di zi lie zhuan	1
+伍子胥列传	wu zi xu lie zhuan	1
+孙子吴起列传	sun zi wu qi lie zhuan	1
+司马穰苴列传	si ma rang ju lie zhuan	1
+老子韩非列传	lao zi han fei lie zhuan	1
+管晏列传	guan yan lie zhuan	1
+伯夷列传	bo yi lie zhuan	1
+王世家	wang shi jia	1
+宗世家	zong shi jia	1
+梁孝王世家	liang xiao wang shi jia	1
+绛侯周勃世家	jiang hou zhou bo shi jia	1
+陈丞相世家	chen cheng xiang shi jia	1
+留侯世家	liu hou shi jia	1
+曹相国世家	cao xiang guo shi jia	1
+萧相国世家	xiao xiang guo shi jia	1
+齐悼惠王世家	qi dao hui wang shi jia	1
+荆燕世家	jing yan shi jia	1
+楚元王世家	chu yuan wang shi jia	1
+外戚世家	wai qi shi jia	1
+孔子世家	kong zi shi jia	1
+田敬仲完世家	tian jing zhong wan shi jia	1
+韩世家	han shi jia	1
+魏世家	wei shi jia	1
+赵世家	zhao shi jia	1
+郑世家	zheng shi jia	1
+越王勾践世家	yue wang gou jian shi jia	1
+楚世家	chu shi jia	1
+晋世家	jin shi jia	1
+宋微子世家	song wei zi shi jia	1
+卫康叔世家	wei kang shu shi jia	1
+陈杞世家	chen qi shi jia	1
+管蔡世家	guan cai shi jia	1
+燕召公世家	yan zhao gong shi jia	1
+汉兴以来将相名臣年表	han xing yi lai jiang xiang ming chen nian biao	1
+建元已来王子侯者年表	jian yuan yi lai wang zi hou zhe nian biao	1
+建元以来侯者年表	jian yuan yi lai hou zhe nian biao	1
+惠景闲侯者年表	hui jing xian hou zhe nian biao	1
+高祖功臣侯者年表	gao zu gong chen hou zhe nian biao	1
+汉兴以来诸侯王年表	han xing yi lai zhu hou wang nian biao	1
+秦楚之际月表	qin chu zhi ji yue biao	1
+十二诸侯年表	shi er zhu hou nian biao	1
+三代世表	san dai shi biao	1
+三皇本纪	san huang ben ji	1
+孝武本纪	xiao wu ben ji	1
+孝景本纪	xiao jing ben ji	1
+孝文本纪	xiao wen ben ji	1
+吕太后本纪	lv tai hou ben ji	1
+高祖本纪	gao zu ben ji	1
+秦始皇本纪	qin shi huang ben ji	1
+秦本纪	qin ben ji	1
+周本纪	zhou ben ji	1
+殷本纪	yin ben ji	1
+夏本纪	xia ben ji	1
+史记	shi ji	1
+本纪	ben ji	1
+刘盈	liu ying	1
+汉惠帝	han hui di	1
+嬴扶苏	ying fu su	1
+徐市	xu shi	1
+项燕	xiang yan	1
+李冰	li bing	1
+甘德	gan de	1
+杨朱	yang zhu	1
+庞涓	pang juan	1
+鬼谷子	gui gu zi	1
+文种	wen zhong	1
+鲁班	lu ban	1
+柳下惠	liu xia hui	1
+向戌	xiang xu	1
+季孙行父	ji sun xing fu	1
+先轸	xian zhen	1
+由馀	you yu	1
+褒姒	bao si	1
+召公	zhao gong	1
+武庚	wu geng	1
+妲己	da ji	1
+祖己	zu ji	1
+傅说	fu shuo	1
+伊尹	yi yin	1
+嫘祖	lei zu	1
+蚩尤	chi you	1
+炎帝	yan di	1
+其他	qi ta	1
+程郑	cheng zheng	1
+白圭	bai gui	1
+范蠡	fan li	1
+货殖	huo zhi	1
+司马季主	si ma ji zhu	1
+日者	ri zhe	1
+优旃	you zhan	1
+优孟	you meng	1
+滑稽	hua ji	1
+李延年	li yan nian	1
+韩嫣	han yan	1
+北宫伯子	bei gong bo zi	1
+赵同	zhao tong	1
+邓通	deng tong	1
+佞幸	ning xing	1
+郭解	guo jie	1
+鲁朱家	lu zhu jia	1
+游侠	you xia	1
+杜周	du zhou	1
+减宣	jian xuan	1
+杨仆	yang pu	1
+尹齐	yin qi	1
+王温舒	wang wen shu	1
+义纵	yi zong	1
+张汤	zhang tang	1
+赵禹	zhao yu	1
+周阳由	zhou yang you	1
+宁成	ning cheng	1
+郅都	zhi du	1
+酷吏	ku li	1
+董仲舒	dong zhong shu	1
+何以易	he yi yi	1
+徐生	xu sheng	1
+伏生	fu sheng	1
+韩生	han sheng	1
+辕固生	yuan gu sheng	1
+申公	shen gong	1
+儒林	ru lin	1
+李离	li li	1
+石奢	shi she	1
+公仪休	gong yi xiu	1
+子产	zi chan	1
+孙叔敖	sun shu ao	1
+循吏	xun li	1
+荆轲	jing ke	1
+聂政	nie zheng	1
+豫让	yu rang	1
+专诸	zhuan zhu	1
+曹沫	cao mo	1
+刺客	ci ke	1
+太史公	tai shi gong	1
+郑当时	zheng dang shi	1
+刘赐	liu ci	1
+衡山王	heng shan wang	1
+刘陵	liu ling	1
+刘安	liu an	1
+淮南王	huai nan wang	1
+刘长	liu chang	1
+淮南厉王	huai nan li wang	1
+司马相如	si ma xiang ru	1
+主父偃	zhu fu yan	1
+公孙弘	gong sun hong	1
+赵破奴	zhao po nu	1
+路博德	lu bo de	1
+荀彘	xun zhi	1
+郭昌	guo chang	1
+韩说	han shuo	1
+赵食其	zhao shi qi	1
+张骞	zhang qian	1
+赵信	zhao xin	1
+苏建	su jian	1
+张次公	zhang ci gong	1
+李蔡	li cai	1
+李沮	li ju	1
+公孙敖	gong sun ao	1
+李息	li xi	1
+公孙贺	gong sun he	1
+霍去病	huo qu bing	1
+卫青	wei qing	1
+李陵	li ling	1
+李广	li guang	1
+韩安国	han an guo	1
+灌夫	guan fu	1
+魏其	wei qi	1
+田蚡	tian fen	1
+武安侯	wu an hou	1
+窦婴	dou ying	1
+刘濞	liu bi	1
+吴王	wu wang	1
+淳于意	chun yu yi	1
+扁鹊	bian que	1
+田仁	tian ren	1
+田叔	tian shu	1
+张叔	zhang shu	1
+周文	zhou wen	1
+直不疑	zhi bu yi	1
+卫绾	wei wan	1
+石庆	shi qing	1
+石奋	shi fen	1
+万石君	wan shi jun	1
+冯唐	feng tang	1
+张释之	zhang shi zhi	1
+晁错	chao cuo	1
+袁盎	yuan ang	1
+栾布	luan bu	1
+季心	ji xin	1
+季布	ji bu	1
+叔孙通	shu sun tong	1
+刘敬	liu jing	1
+周緤	zhou xie	1
+靳歙	jin she	1
+傅宽	fu kuan	1
+朱建	zhu jian	1
+陆贾	lu jia	1
+郦食其	li yi ji	1
+申屠嘉	shen tu jia	1
+任敖	ren ao	1
+周昌	zhou chang	1
+周苛	zhou ke	1
+张苍	zhang cang	1
+灌婴	guan ying	1
+夏侯婴	xia hou ying	1
+郦寄	li ji	1
+郦商	li shang	1
+樊哙	fan kuai	1
+田横	tian heng	1
+田荣	tian rong	1
+田儋	tian dan	1
+卢绾	lu wan	1
+韩王信	han wang xin	1
+韩信	han xin	1
+黥布	qing bu	1
+彭越	peng yue	1
+魏豹	wei bao	1
+魏咎	wei jiu	1
+张偃	zhang yan	1
+张敖	zhang ao	1
+陈余	chen yu	1
+张耳	zhang er	1
+蒙毅	meng yi	1
+蒙恬	meng tian	1
+蒙骜	meng ao	1
+赵高	zhao gao	1
+李由	li you	1
+李斯	li si	1
+嫪毐	lao ai	1
+吕不韦	lv bu wei	1
+贾生	jia sheng	1
+屈原	qu yuan	1
+邹阳	zou yang	1
+鲁仲连	lu zhong lian	1
+君王後	jun wang hou	1
+田单	tian dan	1
+李牧	li mu	1
+赵括	zhao kuo	1
+赵奢	zhao she	1
+蔺相如	lin xiang ru	1
+廉颇	lian po	1
+乐乘	le cheng	1
+乐闲	le xian	1
+乐毅	yue yi	1
+乐羊	le yang	1
+蔡泽	cai ze	1
+范睢	fan sui	1
+春申君	chun shen jun	1
+信陵君	xin ling jun	1
+虞卿	yu qing	1
+平原君	ping yuan jun	1
+孟尝君	meng chang jun	1
+墨翟	mo di	1
+李悝	li kui	1
+公孙龙	gong sun long	1
+荀卿	xun qing	1
+慎到	shen dao	1
+淳于髡	chun yu kun	1
+驺衍	zou yan	1
+驺忌	zou ji	1
+孟子	meng zi	1
+王离	wang li	1
+王贲	wang ben	1
+王翦	wang jian	1
+白起	bai qi	1
+穰侯	rang hou	1
+甘罗	gan luo	1
+甘茂	gan mao	1
+樗里子	chu li zi	1
+犀首	xi shou	1
+陈轸	chen zhen	1
+张仪	zhang yi	1
+苏代	su dai	1
+苏秦	su qin	1
+商鞅	shang yang	1
+伍子胥	wu zi xu	1
+吴起	wu qi	1
+孙膑	sun bin	1
+孙武	sun wu	1
+司马穰苴	si ma rang ju	1
+韩非	han fei	1
+申不害	shen bu hai	1
+庄子	zhuang zi	1
+老子	lao zi	1
+晏婴	yan ying	1
+管仲	guan zhong	1
+叔齐	shu qi	1
+伯夷	bo yi	1
+列传	lie zhuan	1
+刘胥	liu xu	1
+广陵王	guang ling wang	1
+刘旦	liu dan	1
+刘闳	liu hong	1
+齐王	qi wang	1
+三王	san wang	1
+刘舜	liu shun	1
+常山宪王	chang shan xian wang	1
+刘寄	liu ji	1
+胶东康王	jiao dong kang wang	1
+刘发	liu fa	1
+长沙定王	chang sha ding wang	1
+刘胜	liu sheng	1
+中山靖王	zhong shan jing wang	1
+刘彭祖	liu peng zu	1
+刘端	liu duan	1
+胶西于王	jiao xi yu wang	1
+刘非	liu fei	1
+江都易王	jiang du yi wang	1
+刘余	liu yu	1
+鲁共王	lu gong wang	1
+刘荣	liu rong	1
+临江闵王	lin jiang min wang	1
+刘德	liu de	1
+河间献王	he jian xian wang	1
+五宗	wu zong	1
+梁平王	liang ping wang	1
+刘武	liu wu	1
+梁孝王	liang xiao wang	1
+周亚夫	zhou ya fu	1
+绛条侯	jiang tiao hou	1
+周勃	zhou bo	1
+绛武侯	jiang wu hou	1
+绛侯	jiang hou	1
+陈平	chen ping	1
+献侯	xian hou	1
+陈丞相	chen cheng xiang	1
+张良	zhang liang	1
+留文成侯	liu wen cheng hou	1
+留侯	liu hou	1
+侯曹窋	hou cao zhu	1
+平阳静	ping yang jing	1
+侯曹参	hou cao can	1
+平阳懿	ping yang yi	1
+曹相国	cao xiang guo	1
+萧何	xiao he	1
+文终侯	wen zhong hou	1
+萧相国	xiao xiang guo	1
+刘次景	liu ci jing	1
+齐厉王	qi li wang	1
+刘将闾	liu jiang lv	1
+齐孝王	qi xiao wang	1
+刘雄渠	liu xiong qu	1
+胶东王	jiao dong wang	1
+刘昂	liu ang	1
+胶西王	jiao xi wang	1
+刘贤	liu xian	1
+菑川王	zi chuan wang	1
+刘辟光	liu pi guang	1
+济南王	ji nan wang	1
+刘兴居	liu xing ju	1
+济北王	ji bei wang	1
+刘章	liu zhang	1
+城阳景王	cheng yang jing wang	1
+刘襄	liu xiang	1
+齐哀王	qi ai wang	1
+刘肥	liu fei	1
+齐悼惠王	qi dao hui wang	1
+刘定国	liu ding guo	1
+刘泽	liu ze	1
+刘贾	liu jia	1
+荆王	jing wang	1
+荆燕	jing yan	1
+刘遂	liu sui	1
+赵王	zhao wang	1
+刘纯	liu chun	1
+楚节王	chu jie wang	1
+刘礼	liu li	1
+楚文王	chu wen wang	1
+刘戊	liu wu	1
+刘交	liu jiao	1
+楚元王	chu yuan wang	1
+钩弋夫人	gou yi fu ren	1
+邢夫人	xing fu ren	1
+幸夫人	xing fu ren	1
+李夫人	li fu ren	1
+王夫人	wang fu ren	1
+卫皇后	wei huang hou	1
+王太后	wang tai hou	1
+窦太后	dou tai hou	1
+薄太后	bo tai hou	1
+孝惠皇后	xiao hui huang hou	1
+外戚	wai qi	1
+吴广	wu guang	1
+陈涉	chen she	1
+孔安国	kong an guo	1
+孔子襄	kong zi xiang	1
+孔鲋	kong fu	1
+孔子慎	kong zi shen	1
+孔伋	kong ji	1
+孔鲤	kong li	1
+孔子	kong zi	1
+田白	tian bai	1
+田庄子	tian zhuang zi	1
+田盘	tian pan	1
+田襄子	tian xiang zi	1
+田常	tian chang	1
+田成子	tian cheng zi	1
+田乞	tian qi	1
+田厘子	tian li zi	1
+田无宇	tian wu yu	1
+田桓子	tian huan zi	1
+田须无	tian xu wu	1
+田文子	tian wen zi	1
+田湣孟庄	tian min meng zhuang	1
+田稚孟夷	tian zhi meng yi	1
+陈完	chen wan	1
+田齐	tian qi	1
+韩启章	han qi zhang	1
+韩虎	han hu	1
+韩康子	han kang zi	1
+韩庚	han geng	1
+韩庄子	han zhuang zi	1
+韩不信	han bu xin	1
+韩简子	han jian zi	1
+韩须	han xu	1
+韩贞子	han zhen zi	1
+韩起	han qi	1
+韩宣子	han xuan zi	1
+韩厥	han jue	1
+韩献子	han xian zi	1
+韩武子	han wu zi	1
+韩国	han guo	1
+魏驹	wei ju	1
+魏桓子	wei huan zi	1
+魏侈	wei chi	1
+魏荼	wei tu	1
+魏献子	wei xian zi	1
+魏嬴	wei ying	1
+魏绛	wei jiang	1
+魏昭子	wei zhao zi	1
+魏悼子	wei dao zi	1
+魏武子	wei wu zi	1
+毕万	bi wan	1
+毕公高	bi gong gao	1
+魏国	wei guo	1
+王赵迁	wang zhao qian	1
+赵幽缪	zhao you miu	1
+王赵偃	wang zhao yan	1
+赵悼襄	zhao dao xiang	1
+王赵丹	wang zhao dan	1
+赵孝成	zhao xiao cheng	1
+王赵何	wang zhao he	1
+赵惠文	zhao hui wen	1
+王赵雍	wang zhao yong	1
+赵武灵	zhao wu ling	1
+赵肃侯	zhao su hou	1
+赵种	zhao zhong	1
+赵成侯	zhao cheng hou	1
+赵章	zhao zhang	1
+赵敬侯	zhao jing hou	1
+赵武公	zhao wu gong	1
+赵籍	zhao ji	1
+赵烈侯	zhao lie hou	1
+赵桓子	zhao huan zi	1
+赵浣	zhao huan	1
+赵献侯	zhao xian hou	1
+赵毋恤	zhao wu xu	1
+赵襄子	zhao xiang zi	1
+赵鞅	zhao yang	1
+赵简子	zhao jian zi	1
+赵景叔	zhao jing shu	1
+赵武	zhao wu	1
+赵文子	zhao wen zi	1
+赵朔	zhao shuo	1
+赵盾	zhao dun	1
+赵衰	zhao shuai	1
+共孟	gong meng	1
+赵夙	zhao su	1
+叔带	shu dai	1
+奄父	yan fu	1
+造父	zao fu	1
+衡父	heng fu	1
+孟增	meng zeng	1
+季胜	ji sheng	1
+赵国	zhao guo	1
+燕孝王	yan xiao wang	1
+燕武成王	yan wu cheng wang	1
+燕惠王	yan hui wang	1
+姬职	ji zhi	1
+燕昭王	yan zhao wang	1
+姬哙	ji kuai	1
+燕王	yan wang	1
+燕易王	yan yi wang	1
+燕厘公	yan li gong	1
+燕湣公	yan min gong	1
+燕成公	yan cheng gong	1
+燕孝公	yan xiao gong	1
+燕献公	yan xian gong	1
+燕简公	yan jian gong	1
+燕平公	yan ping gong	1
+燕共公	yan gong gong	1
+燕悼公	yan dao gong	1
+燕惠公	yan hui gong	1
+燕懿公	yan yi gong	1
+燕文公	yan wen gong	1
+燕武公	yan wu gong	1
+燕昭公	yan zhao gong	1
+燕宣公	yan xuan gong	1
+燕桓公	yan huan gong	1
+燕襄公	yan xiang gong	1
+燕庄公	yan zhuang gong	1
+燕桓侯	yan huan hou	1
+燕宣侯	yan xuan hou	1
+燕缪侯	yan miu hou	1
+燕郑侯	yan zheng hou	1
+燕哀侯	yan ai hou	1
+燕顷侯	yan qing hou	1
+燕厘侯	yan li hou	1
+燕惠侯	yan hui hou	1
+召公姬奭	zhao gong ji shi	1
+燕国	yan guo	1
+周公旦	zhou gong dan	1
+鲁国	lu guo	1
+夫差	fu chai	1
+阖庐	he lu	1
+吴王僚	wu wang liao	1
+余眛	yu mei	1
+余祭	yu ji	1
+季札	ji zha	1
+诸樊	zhu fan	1
+寿梦	shou meng	1
+去齐	qu qi	1
+句卑	ju bei	1
+颇高	po gao	1
+禽处	qin chu	1
+夷吾	yi wu	1
+屈羽	qu yu	1
+周繇	zhou yao	1
+柯卢	ke lu	1
+余桥疑吾	yu qiao yi wu	1
+彊鸠夷	jiang jiu yi	1
+柯相	ke xiang	1
+熊遂	xiong sui	1
+周章	zhou zhang	1
+叔达	shu da	1
+季简	ji jian	1
+仲雍	zhong yong	1
+太伯	tai bo	1
+吴国	wu guo	1
+世家	shi jia	1
+刘彻	liu che	1
+汉武帝	han wu di	1
+刘启	liu qi	1
+汉景帝	han jing di	1
+刘恒	liu heng	1
+汉文帝	han wen di	1
+吕雉	lv zhi	1
+吕太后	lv tai hou	1
+刘邦	liu bang	1
+汉高祖	han gao zu	1
+西汉	xi han	1
+项羽	xiang yu	1
+西楚	xi chu	1
+嬴子婴	ying zi ying	1
+秦王	qin wang	1
+嬴胡亥	ying hu hai	1
+秦二世	qin er shi	1
+嬴政	ying zheng	1
+秦始皇	qin shi huang	1
+秦朝	qin chao	1
+嬴子楚	ying zi chu	1
+秦庄襄王	qin zhuang xiang wang	1
+嬴柱	ying zhu	1
+秦孝文王	qin xiao wen wang	1
+嬴则	ying ze	1
+秦昭襄王	qin zhao xiang wang	1
+嬴荡	ying dang	1
+秦武王	qin wu wang	1
+嬴驷	ying si	1
+秦惠文君	qin hui wen jun	1
+嬴渠梁	ying qu liang	1
+秦孝公	qin xiao gong	1
+秦献公	qin xian gong	1
+秦出公	qin chu gong	1
+嬴悼子	ying dao zi	1
+秦简公	qin jian gong	1
+秦灵公	qin ling gong	1
+秦怀公	qin huai gong	1
+秦躁公	qin zao gong	1
+秦厉共公	qin li gong gong	1
+秦悼公	qin dao gong	1
+秦惠公	qin hui gong	1
+秦哀公	qin ai gong	1
+嬴後伯车	ying hou bo che	1
+秦景公	qin jing gong	1
+秦桓公	qin huan gong	1
+嬴貑	ying jia	1
+秦共公	qin gong gong	1
+嬴罃	ying ying	1
+秦康公	qin kang gong	1
+嬴任好	ying ren hao	1
+秦缪公	qin miu gong	1
+秦成公	qin cheng gong	1
+秦宣公	qin xuan gong	1
+秦德公	qin de gong	1
+秦武公	qin wu gong	1
+出子	chu zi	1
+秦宁公	qin ning gong	1
+秦文公	qin wen gong	1
+秦襄公	qin xiang gong	1
+嬴世父	ying shi fu	1
+秦庄公	qin zhuang gong	1
+秦仲	qin zhong	1
+公伯	gong bo	1
+秦侯	qin hou	1
+秦嬴	qin ying	1
+秦国	qin guo	1
+姬延	ji yan	1
+周赧王	zhou nan wang	1
+姬定	ji ding	1
+周慎靓王	zhou shen jing wang	1
+姬扁	ji bian	1
+周显王	zhou xian wang	1
+姬喜	ji xi	1
+周烈王	zhou lie wang	1
+姬骄	ji jiao	1
+周安王	zhou an wang	1
+姬午	ji wu	1
+周威烈王	zhou wei lie wang	1
+姬嵬	ji wei	1
+周考王	zhou kao wang	1
+姬叔	ji shu	1
+周思王	zhou si wang	1
+姬去疾	ji qu ji	1
+周哀王	zhou ai wang	1
+姬介	ji jie	1
+姬仁	ji ren	1
+周元王	zhou yuan wang	1
+姬丐	ji gai	1
+周敬王	zhou jing wang	1
+姬猛	ji meng	1
+周悼王	zhou dao wang	1
+姬贵	ji gui	1
+周景王	zhou jing wang	1
+姬泄心	ji xie xin	1
+周灵王	zhou ling wang	1
+姬夷	ji yi	1
+周简王	zhou jian wang	1
+姬瑜	ji yu	1
+周定王	zhou ding wang	1
+姬班	ji ban	1
+周匡王	zhou kuang wang	1
+姬壬臣	ji ren chen	1
+周顷王	zhou qing wang	1
+姬郑	ji zheng	1
+周襄王	zhou xiang wang	1
+姬阆	ji lang	1
+周惠王	zhou hui wang	1
+姬胡齐	ji hu qi	1
+周厘王	zhou li wang	1
+姬佗	ji tuo	1
+周庄王	zhou zhuang wang	1
+姬林	ji lin	1
+周桓王	zhou huan wang	1
+姬宜臼	ji yi jiu	1
+周平王	zhou ping wang	1
+东周	dong zhou	1
+姬宫湦	ji gong sheng	1
+周幽王	zhou you wang	1
+姬静	ji jing	1
+周宣王	zhou xuan wang	1
+姬胡	ji hu	1
+周厉王	zhou li wang	1
+姬燮	ji xie	1
+周夷王	zhou yi wang	1
+姬辟方	ji pi fang	1
+周孝王	zhou xiao wang	1
+姬囏	ji jian	1
+周懿王	zhou yi wang	1
+姬繄扈	ji yi hu	1
+周共王	zhou gong wang	1
+姬满	ji man	1
+周穆王	zhou mu wang	1
+姬瑕	ji xia	1
+周昭王	zhou zhao wang	1
+姬钊	ji zhao	1
+周康王	zhou kang wang	1
+姬诵	ji song	1
+周成王	zhou cheng wang	1
+姬发	ji fa	1
+周武王	zhou wu wang	1
+周文王	zhou wen wang	1
+西周	xi zhou	1
+帝辛	di xin	1
+帝乙	di yi	1
+太丁	tai ding	1
+武乙	wu yi	1
+庚丁	geng ding	1
+廪辛	lin xin	1
+祖甲	zu jia	1
+祖庚	zu geng	1
+武丁	wu ding	1
+小乙	xiao yi	1
+小辛	xiao xin	1
+盘庚	pan geng	1
+阳甲	yang jia	1
+南庚	nan geng	1
+祖丁	zu ding	1
+沃甲	wo jia	1
+祖辛	zu xin	1
+祖乙	zu yi	1
+河亶甲	he dan jia	1
+外壬	wai ren	1
+中丁	zhong ding	1
+太戊	tai wu	1
+雍己	yong ji	1
+小甲	xiao jia	1
+太庚	tai geng	1
+沃丁	wo ding	1
+太甲	tai jia	1
+中壬	zhong ren	1
+外丙	wai bing	1
+成汤	cheng tang	1
+商朝	shang chao	1
+履癸	lv gui	1
+孔甲	kong jia	1
+不降	bu xiang	1
+少康	shao kang	1
+中康	zhong kang	1
+太康	tai kang	1
+夏朝	xia chao	1
+颛顼	zhuan xu	1
+黄帝	huang di	1
+五帝	wu di	1
+商祖白圭	shang zu bai gui	1
+蒙冤而死	meng yuan er si	1
+西门豹治邺	xi men bao zhi ye	1
+奇人东方朔	qi ren dong fang shuo	1
+优孟衣冠	you meng yi guan	1
+邓通铜山	deng tong tong shan	1
+南越王赵佗	nan yue wang zhao tuo	1
+大宛良马	da wan liang ma	1
+张骞出使西域	zhang qian chu shi xi yu	1
+义纵的手段	yi zong de shou duan	1
+一言难尽话张汤	yi yan nan jin hua zhang tang	1
+苍鹰郅都	cang ying zhi du	1
+大儒董仲舒	da ru dong zhong shu	1
+汲黯	ji an	1
+社稷之臣	she ji zhi chen	1
+四贤吏	si xian li	1
+淮南王之死	huai nan wang zhi si	1
+赋圣司马相如	fu sheng si ma xiang ru	1
+骠骑将军霍去病	piao qi jiang jun huo qu bing	1
+一代名将卫青	yi dai ming jiang wei qing	1
+飞将军李广	fei jiang jun li guang	1
+马邑城之谋	ma yi cheng zhi mou	1
+宦海沉浮	huan hai chen fu	1
+神医扁鹊	shen yi bian que	1
+冯唐易老	feng tang yi lao	1
+秉公执法的张释之	bing gong zhi fa de zhang shi zhi	1
+晁错受诛	chao cuo shou zhu	1
+千金一诺说季布	qian jin yi nuo shuo ji bu	1
+叔孙通审时度势	shu sun tong shen shi duo shi	1
+神乎其神的张良	shen hu qi shen de zhang liang	1
+汉代第一儒	han dai di yi ru	1
+高阳酒徒	gao yang jiu tu	1
+狂生郦食其	kuang sheng li yi ji	1
+申屠嘉计惩邓通	shen tu jia ji cheng deng tong	1
+刚直不阿的周昌	gang zhi bu e de zhou chang	1
+通才张苍	tong cai zhang cang	1
+忠心耿耿夏侯婴	zhong xin geng geng xia hou ying	1
+智勇樊哙	zhi yong fan kuai	1
+田横五百义士	tian heng wu bai yi shi	1
+令人叹息的韩信	ling ren tan xi de han xin	1
+用兵如神	yong bing ru shen	1
+忍辱负重	ren ru fu zhong	1
+猛将黥布	meng jiang qing bu	1
+重义气的栾布	zhong yi qi de luan bu	1
+草莽英雄彭越	cao mang ying xiong peng yue	1
+胸怀大志	xiong huai da zhi	1
+侠肝义胆话贯高	xia gan yi dan hua guan gao	1
+大将蒙恬	da jiang meng tian	1
+秦朝的覆灭	qin chao de fu mie	1
+赵高杀李斯	zhao gao sha li si	1
+秦始皇之死	qin shi huang zhi si	1
+李斯的真知灼见	li si de zhen zhi zhuo jian	1
+易水悲歌	yi shui bei ge	1
+聂政之死	nie zheng zhi si	1
+知恩图报	zhi en tu bao	1
+专诸刺王僚	zhuan zhu ci wang liao	1
+奇货可居	qi huo ke ju	1
+才子贾谊	cai zi jia yi	1
+屈子沉江	qu zi chen jiang	1
+火牛阵	huo niu zhen	1
+赵国长城	zhao guo chang cheng	1
+虎父与犬子	hu fu yu quan zi	1
+将相和	jiang xiang he	1
+完璧归赵	wan bi gui zhao	1
+乐毅伐齐	yue yi fa qi	1
+范雎快意恩仇	fan ju kuai yi en chou	1
+范雎入秦	fan ju ru qin	1
+饮恨棘门	yin hen ji men	1
+黄歇封相	huang xie feng xiang	1
+信陵君窃符救赵	xin ling jun qie fu jiu zhao	1
+信陵君礼贤下士	xin ling jun li xian xia shi	1
+虞卿劝赵王	yu qing quan zhao wang	1
+毛遂自荐	mao sui zi jian	1
+冯谖不弃孟尝君	feng xuan bu qi meng chang jun	1
+冯谖焚券买义	feng xuan fen quan mai yi	1
+孟尝君传奇	meng chang jun chuan qi	1
+人屠白起	ren tu bai qi	1
+少年卿相	shao nian qing xiang	1
+甘茂巧谏秦武王	gan mao qiao jian qin wu wang	1
+苏秦与张仪	su qin yu zhang yi	1
+苏秦合纵六国抗秦	su qin he zong liu guo kang qin	1
+淳于髡隐语谏君王	chun yu kun yin yu jian jun wang	1
+晋文公重耳复国记	jin wen gong chong er fu guo ji	1
+触龙劝赵太后	chu long quan zhao tai hou	1
+英明与昏庸	ying ming yu hun yong	1
+五帝的传说	wu di de chuan shuo	1
+伍子胥复仇记	wu zi xu fu chou ji	1
+吴起之谋	wu qi zhi mou	1
+孙膑的智谋	sun bin de zhi mou	1
+孙武练兵	sun wu lian bing	1
+治兵有方	zhi bing you fang	1
+韩非的悲剧	han fei de bei ju	1
+莫测高深的老子	mo ce gao shen de lao zi	1
+英雄末路	ying xiong mo lu	1
+楚汉之争	chu han zhi zheng	1
+商鞅变法	shang yang bian fa	1
+王翦破楚	wang jian po chu	1
+赵氏孤儿	zhao shi gu er	1
+虚怀若谷	xu huai ruo gu	1
+管鲍之交	guan bao zhi jiao	1
+武王伐纣	wu wang fa zhou	1
+项羽本纪	xiang yu ben ji	1
+姬昌	ji chang	1
+太史公自序	tai shi gong zi xu	1
+刺客列传	ci ke lie zhuan	1
+廉颇蔺相如列传	lian po lin xiang ru lie zhuan	1
+陈涉世家	chen she shi jia	1
+六国年表	liu guo nian biao	1
+五帝本纪	wu di ben ji	1
+十二本纪	shi er ben ji	1
+七十列传	qi shi lie zhuan	1
+三十世家	san shi shi jia	1
+八书	ba shu	1
+十表	shi biao	1

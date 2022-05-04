@@ -1,0 +1,133 @@
+---
+name: 4706系列词库
+version: "20220504"
+sort: by_weight
+use_preset_vocabulary: true
+...
+电动控制水阀	dian dong kong zhi shui fa	1
+责任承销商	ze ren cheng xiao shang	1
+器具型号	qi ju xing hao	1
+防水等级	fang shui deng ji	1
+电击防护	dian ji fang hu	1
+辐射毒性和类似危险	fu she du xing he lei si wei xian	1
+防锈	fang xiu	1
+耐热和耐燃	nai re he nai ran	1
+电气间隙爬电距离和固体绝缘	dian qi jian xi pa dian ju li he gu ti jue yuan	1
+螺钉和连接	luo ding he lian jie	1
+接地措施	jie di cuo shi	1
+外部导线用接线端子	wai bu dao xian yong jie xian duan zi	1
+电源连接和外部软线	dian yuan lian jie he wai bu ruan xian	1
+内部布线	nei bu bu xian	1
+结构	jie gou	1
+机械强度	ji xie qiang du	1
+稳定性和机械危险	wen ding xing he ji xie wei xian	1
+非正常工作	fei zheng chang gong zuo	1
+耐久性	nai jiu xing	1
+发热	fa re	1
+输入功率和电流	shu ru gong lv he dian liu	1
+对触及带电部件的防护	dui chu ji dai dian bu jian de fang hu	1
+标志和说明	biao zhi he shuo ming	1
+空气净化器加湿器	kong qi jing hua qi jia shi qi	1
+压缩机	ya suo ji	1
+空调	kong tiao	1
+冰箱和食品冷冻箱	bing xiang he shi pin leng dong xiang	1
+吸油烟机	xi you yan ji	1
+吸尘器	xi chen qi	1
+换气扇	huan qi shan	1
+电风扇	dian feng shan	1
+灭虫器	mie chong qi	1
+暖手器和热脚垫	nuan shou qi he re jiao dian	1
+便携式电加热器	bian xie shi dian jia re qi	1
+电炸锅	dian zha guo	1
+油煎锅	you jian guo	1
+深油炸锅	shen you zha guo	1
+衣物干燥机和毛巾架	yi wu gan zao ji he mao jin jia	1
+电推剪	dian tui jian	1
+电动剃须刀	dian dong ti xu dao	1
+表面清洁器	biao mian qing jie qi	1
+电热垫	dian re dian	1
+电热毯	dian re tan	1
+消毒柜	xiao du gui	1
+饮水机	yin shui ji	1
+液体加热器	ye ti jia re qi	1
+室内加热器	shi nei jia re qi	1
+烤炉	kao lu	1
+灶台	zao tai	1
+驻立式电灶	zhu li shi dian zao	1
+电熨斗	dian yun dou	1
+电饭锅	dian fan guo	1
+电烤炉	dian kao lu	1
+烤架	kao jia	1
+微波炉	wei bo lu	1
+电磁炉	dian ci lu	1
+电子座便器	dian zi zuo bian qi	1
+多功能淋浴房	duo gong neng lin yu fang	1
+桑拿房加热器	sang na fang jia re qi	1
+涡流浴缸	wo liu yu gang	1
+快热式电热水器	kuai re shi dian re shui qi	1
+储水式电热水器	chu shui shi dian re shui qi	1
+厨房机械	chu fang ji xie	1
+商用洗碗机	shang yong xi wan ji	1
+洗碗机	xi wan ji	1
+离心式脱水机	li xin shi tuo shui ji	1
+洗衣机	xi yi ji	1
+电热元件	dian re yuan jian	1
+断开位置	duan kai wei zhi	1
+全极断开	quan ji duan kai	1
+热熔断体	re rong duan ti	1
+保护装置	bao hu zhuang zhi	1
+非自复位热断路器	fei zi fu wei re duan lu qi	1
+自复位热断路器	zi fu wei re duan lu qi	1
+热断路器	re duan lu qi	1
+限温器	xian wen qi	1
+温控器	wen kong qi	1
+带电部件	dai dian bu jian	1
+易触及部件	yi chu ji bu jian	1
+可拆卸部件	ke chai xie bu jian	1
+组合型器具	zu he xing qi ju	1
+电动器具	dian dong qi ju	1
+电热器具	dian re qi ju	1
+嵌装式器具	qian zhuang shi qi ju	1
+固定式器具	gu ding shi qi ju	1
+驻立式器具	zhu li shi qi ju	1
+手持式器具	shou chi shi qi ju	1
+便携式器具	bian xie shi qi ju	1
+安全隔离变压器	an quan ge li bian ya qi	1
+爬电距离	pa dian ju li	1
+电气间隙	dian qi jian xi	1
+类结构	lei jie gou	1
+类器具	lei qi ju	1
+保护阻抗	bao hu zu kang	1
+功能性绝缘	gong neng xing jue yuan	1
+加强绝缘	jia qiang jue yuan	1
+双重绝缘	shuang chong jue yuan	1
+附加绝缘	fu jia jue yuan	1
+基本绝缘	ji ben jue yuan	1
+电源引线	dian yuan yin xian	1
+型连接	xing lian jie	1
+电源软线	dian yuan ruan xian	1
+互连软线	hu lian ruan xian	1
+可拆卸软线	ke chai xie ruan xian	1
+危险性功能失效	wei xian xing gong neng shi xiao	1
+额定脉冲电压	e ding mai chong dian ya	1
+正常工作	zheng chang gong zuo	1
+额定频率	e ding pin lv	1
+额定电流	e ding dian liu	1
+额定输入功率范围	e ding shu ru gong lv fan wei	1
+额定输入功率	e ding shu ru gong lv	1
+工作电压	gong zuo dian ya	1
+额定电压范围	e ding dian ya fan wei	1
+保护电子电路	bao hu dian zi dian lu	1
+保护安全特低电压	bao hu an quan te di dian ya	1
+安全特低电压	an quan te di dian ya	1
+中国电器科学研究院有限公司	zhong guo dian qi ke xue yan jiu yuan you xian gong si	1
+元件	yuan jian	1
+下限值	xia xian zhi	1
+上限值	shang xian zhi	1
+制造商	zhi zao shang	1
+额定电压	e ding dian ya	1
+有效值	you xiao zhi	1
+电流	dian liu	1
+电压	dian ya	1
+值得信赖的测试评价专家	zhi de xin lai de ce shi ping jia zhuan jia	1
+威凯检测技术有限公司	wei kai jian ce ji shu you xian gong si	1

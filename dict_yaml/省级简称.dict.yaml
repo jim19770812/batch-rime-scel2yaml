@@ -1,0 +1,11 @@
+---
+name: 省级简称
+version: "20220504"
+sort: by_weight
+use_preset_vocabulary: true
+...
+内蒙黑吉辽闽赣	nei meng hei ji liao min gan	1
+港澳台琼青藏疆	gang ao tai qiong qing zang jiang	1
+晋冀鲁豫苏浙皖	jin ji lu yu su zhe wan	1
+湘鄂粤桂滇蜀黔	xiang e yue gui dian shu qian	1
+京津沪渝宁陕甘	jing jin hu yu ning shan gan	1

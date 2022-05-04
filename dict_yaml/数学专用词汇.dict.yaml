@@ -1,0 +1,566 @@
+---
+name: 数学专用词汇
+version: "20220504"
+sort: by_weight
+use_preset_vocabulary: true
+...
+作用	zuo yong	1
+左陪集	zuo pei ji	1
+左可消的	zuo ke xiao de	1
+左伴随函子	zuo ban sui han zi	1
+最小元	zui xiao yuan	1
+最小距离	zui xiao ju li	1
+最大匹配	zui da pi pei	1
+最大公因子	zui da gong yin zi	1
+组合数	zu he shu	1
+自由元	zi you yuan	1
+自由单元半群	zi you dan yuan ban qun	1
+自由出现	zi you chu xian	1
+自由变元	zi you bian yuan	1
+自同态环	zi tong tai huan	1
+自同态	zi tong tai	1
+自同构	zi tong gou	1
+自然推理系统	zi ran tui li xi tong	1
+自然同构	zi ran tong gou	1
+自然变换	zi ran bian huan	1
+自反的	zi fan de	1
+自补图	zi bu tu	1
+字	zi	1
+子直积	zi zhi ji	1
+子整环	zi zheng huan	1
+子域	zi yu	1
+子图	zi tu	1
+子群	zi qun	1
+子模	zi mu	1
+子集	zi ji	1
+子环	zi huan	1
+子关系	zi guan xi	1
+子公式	zi gong shi	1
+子范畴	zi fan chou	1
+子代数	zi dai shu	1
+子除环	zi chu huan	1
+子半群	zi ban qun	1
+着色问题	zhuo se wen ti	1
+着色	zhuo se	1
+准素循环模	zhun su xun huan mo	1
+状态转移函数	zhuang tai zhuan yi han shu	1
+主理想整环	zhu li xiang zheng huan	1
+主理想	zhu li xiang	1
+周长	zhou chang	1
+重构猜想	chong gou cai xiang	1
+终结对象	zhong jie dui xiang	1
+终端	zhong duan	1
+中心	zhong xin	1
+中文	zhong wen	1
+中国邮递员问题	zhong guo you di yuan wen ti	1
+置换群	zhi huan qun	1
+秩	zhi	1
+指数	zhi shu	1
+值域	zhi yu	1
+直径	zhi jing	1
+直接先行	zhi jie xian xing	1
+直接后继	zhi jie hou ji	1
+直和	zhi he	1
+正则析取范式	zheng ze xi qu fan shi	1
+正则图	zheng ze tu	1
+正则合取范式	zheng ze he qu fan shi	1
+正则公理	zheng ze gong li	1
+正则表示	zheng ze biao shi	1
+正向极限	zheng xiang ji xian	1
+正交拉丁方	zheng jiao la ding fang	1
+正交表	zheng jiao biao	1
+正规形	zheng gui xing	1
+正常着色	zheng chang zhuo se	1
+整数的分拆数	zheng shu de fen chai shu	1
+整环	zheng huan	1
+整除	zheng chu	1
+真子群	zhen zi qun	1
+真值函数	zhen zhi han shu	1
+真值表技术	zhen zhi biao ji shu	1
+真值表	zhen zhi biao	1
+真正因子	zhen zheng yin zi	1
+真滤子	zhen lv zi	1
+真包含关系	zhen bao han guan xi	1
+语义相容	yu yi xiang rong	1
+语法相容	yu fa xiang rong	1
+余秩	yu zhi	1
+右因子	you yin zi	1
+右零因子	you ling yin zi	1
+右可消的	you ke xiao de	1
+右伴随函子	you ban sui han zi	1
+有单元的环	you dan yuan de huan	1
+有标号图	you biao hao tu	1
+优美图	you mei tu	1
+优美树猜想	you mei shu cai xiang	1
+引理	yin li	1
+一元运算	yi yuan yun suan	1
+一元关系	yi yuan guan xi	1
+循环图	xun huan tu	1
+循环群	xun huan qun	1
+循环单元半群	xun huan dan yuan ban qun	1
+循环半群	xun huan ban qun	1
+选择公里	xuan ze gong li	1
+校验子	jiao yan zi	1
+校验位	jiao yan wei	1
+相等公里	xiang deng gong li	1
+相伴元	xiang ban yuan	1
+系统	xi tong	1
+系数	xi shu	1
+五色定理	wu se ding li	1
+五倍重复码	wu bei chong fu ma	1
+无向图	wu xiang tu	1
+无限群	wu xian qun	1
+无限扩域	wu xian kuo yu	1
+无穷公理	wu qiong gong li	1
+无扭模	wu niu mo	1
+无标号图	wu biao hao tu	1
+谓词	wei ci	1
+唯一分解整域	wei yi fen jie zheng yu	1
+唯一分解	wei yi fen jie	1
+微分代数	wei fen dai shu	1
+忘却函子	wang que han zi	1
+完全性定理	wan quan xing ding li	1
+完全图	wan quan tu	1
+完全码	wan quan ma	1
+完全格	wan quan ge	1
+完全二分图	wan quan er fen tu	1
+完美图	wan mei tu	1
+外延公式	wai yan gong shi	1
+外平面图	wai ping mian tu	1
+外面	wai mian	1
+外代数	wai dai shu	1
+推理规则	tui li gui ze	1
+推出	tui chu	1
+团数	tuan shu	1
+团	tuan	1
+图秩	tu zhi	1
+图序列	tu xu lie	1
+图的自同构群	tu de zi tong gou qun	1
+图的线群	tu de xian qun	1
+图的细分	tu de xi fen	1
+图的同态	tu de tong tai	1
+图的同胚	tu de tong pei	1
+图的同构	tu de tong gou	1
+图的特征值	tu de te zheng zhi	1
+图的收缩	tu de shou suo	1
+图的群	tu de qun	1
+图的谱	tu de pu	1
+图的幂	tu de mi	1
+图的联	tu de lian	1
+图的交	tu de jiao	1
+图的笛卡儿积	tu de di ka er ji	1
+图的叉数	tu de cha shu	1
+图的并	tu de bing	1
+图的闭包	tu de bi bao	1
+图	tu	1
+同余关系	tong yu guan xi	1
+同态	tong tai	1
+同构态射	tong gou tai she	1
+同构范畴	tong gou fan chou	1
+通用结构	tong yong jie gou	1
+通用包络代数	tong yong bao luo dai shu	1
+通道	tong dao	1
+条件	tiao jian	1
+替换定理	ti huan ding li	1
+梯	ti	1
+特指真值	te zhi zhen zhi	1
+特征函数	te zheng han shu	1
+特征多项式	te zheng duo xiang shi	1
+特征	te zheng	1
+特异元	te yi yuan	1
+素域	su yu	1
+四元数	si yuan shu	1
+双射	shuang she	1
+双模	shuang mo	1
+数学结构	shu xue jie gou	1
+数	shu	1
+树	shu	1
+受限命题形式	shou xian ming ti xing shi	1
+收缩	shou suo	1
+始端	shi duan	1
+矢列式	shi lie shi	1
+时间序列	shi jian xu lie	1
+生成子图	sheng cheng zi tu	1
+生成树	sheng cheng shu	1
+生成矩阵	sheng cheng ju zhen	1
+生成函数	sheng cheng han shu	1
+生成过程	sheng cheng guo cheng	1
+上象	shang xiang	1
+上积	shang ji	1
+上核	shang he	1
+商群	shang qun	1
+商模	shang mo	1
+商集	shang ji	1
+商代数	shang dai shu	1
+筛法公式	shai fa gong shi	1
+森林	sen lin	1
+色数	se shu	1
+三值命题逻辑	san zhi ming ti luo ji	1
+三元系大集	san yuan xi da ji	1
+三元系	san yuan xi	1
+三次交代群	san ci jiao dai qun	1
+三倍重复码	san bei chong fu ma	1
+弱反对称的	ruo fan dui chen de	1
+冗余性原则	rong yu xing yuan ze	1
+冗余位	rong yu wei	1
+群码	qun ma	1
+群	qun	1
+确定的	que ding de	1
+全着色	quan zhuo se	1
+全序集	quan xu ji	1
+全图	quan tu	1
+全色数猜想	quan se shu cai xiang	1
+全色数	quan se shu	1
+全排列	quan pai lie	1
+全集	quan ji	1
+全关系	quan guan xi	1
+全方阵环	quan fang zhen huan	1
+全称推广规则	quan cheng tui guang gui ze	1
+全称特指规则	quan cheng te zhi gui ze	1
+全称量词	quan cheng liang ci	1
+全称闭包	quan cheng bi bao	1
+圈秩	quan zhi	1
+圈向量	quan xiang liang	1
+圈空间	quan kong jian	1
+圈矩阵	quan ju zhen	1
+圈基	quan ji	1
+圈	quan	1
+区组设计	qu zu she ji	1
+区间	qu jian	1
+桥	qiao	1
+嵌入	qian ru	1
+前束范式	qian shu fan shi	1
+前件	qian jian	1
+奇偶校验器	ji ou jiao yan qi	1
+奇偶校验码	ji ou jiao yan ma	1
+奇偶校验矩阵	ji ou jiao yan ju zhen	1
+奇偶校验方程	ji ou jiao yan fang cheng	1
+谱半径	pu ban jing	1
+平行类	ping xing lei	1
+平行	ping xing	1
+平面图	ping mian tu	1
+平衡不完全区组设计	ping heng bu wan quan qu zu she ji	1
+平凡子群	ping fan zi qun	1
+平凡图	ping fan tu	1
+偏序关系	pian xu guan xi	1
+偏函数	pian han shu	1
+匹配	pi pei	1
+配对公式	pei dui gong shi	1
+陪集头	pei ji tou	1
+陪集	pei ji	1
+判决过程	pan jue guo cheng	1
+欧氏整环	ou shi zheng huan	1
+欧几里德算法	ou ji li de suan fa	1
+女生问题	nv sheng wen ti	1
+扭元	niu yuan	1
+扭模	niu mo	1
+逆自然变换	ni zi ran bian huan	1
+逆运算	ni yun suan	1
+逆向极限	ni xiang ji xian	1
+逆态射	ni tai she	1
+逆关系	ni guan xi	1
+拟序集	ni xu ji	1
+拟序关系	ni xu guan xi	1
+内直和	nei zhi he	1
+内面	nei mian	1
+模型	mo xing	1
+模同态	mo tong tai	1
+模态命题逻辑系统	mo tai ming ti luo ji xi tong	1
+模态逻辑	mo tai luo ji	1
+命题函数	ming ti han shu	1
+命题常量	ming ti chang liang	1
+命题变量	ming ti bian liang	1
+命题	ming ti	1
+面	mian	1
+幂集	mi ji	1
+幂函子	mi han zi	1
+满态射	man tai she	1
+满射	man she	1
+码字	ma zi	1
+码元	ma yuan	1
+码率	ma lv	1
+码长	ma chang	1
+码	ma	1
+逻辑蕴涵	luo ji yun han	1
+逻辑等价	luo ji deng jia	1
+旅行商问题	lv xing shang wen ti	1
+路	lu	1
+滤子	lv zi	1
+笼	long	1
+零元运算	ling yuan yun suan	1
+零因子	ling yin zi	1
+零化子	ling hua zi	1
+零对象	ling dui xiang	1
+邻接运算	lin jie yun suan	1
+邻接矩阵	lin jie ju zhen	1
+邻接乘法	lin jie cheng fa	1
+邻集	lin ji	1
+量词理论	liang ci li lun	1
+量词	liang ci	1
+连续统	lian xu tong	1
+连通图	lian tong tu	1
+连通分支	lian tong fen zhi	1
+连通度	lian tong du	1
+连接的	lian jie de	1
+理想	li xiang	1
+理发师悖论	li fa shi bei lun	1
+离心率	li xin lv	1
+离散	li san	1
+类	lei	1
+拉回	la hui	1
+扩域	kuo yu	1
+扩图	kuo tu	1
+亏格	kui ge	1
+块	kuai	1
+空图	kong tu	1
+空集存在公理	kong ji cun zai gong li	1
+空集	kong ji	1
+空关系	kong guan xi	1
+可重组合	ke zhong zu he	1
+可重排列	ke zhong pai lie	1
+可增路	ke zeng lu	1
+可因子化的	ke yin zi hua de	1
+可能世界	ke neng shi jie	1
+可满足的	ke man zu de	1
+可分元	ke fen yuan	1
+可分扩域	ke fen kuo yu	1
+可达关系	ke da guan xi	1
+可表示函子	ke biao shi han zi	1
+开关网络	kai guan wang luo	1
+距离传递图	ju li chuan di tu	1
+距离	ju li	1
+矩阵表示	ju zhen biao shi	1
+矩形	ju xing	1
+纠正错误	jiu zheng cuo wu	1
+纠多错码	jiu duo cuo ma	1
+纠	jiu	1
+竞赛图	jing sai tu	1
+解释真	jie shi zhen	1
+截口	jie kou	1
+结合子	jie he zi	1
+结合代数	jie he dai shu	1
+接合	jie he	1
+阶理想	jie li xiang	1
+阶	jie	1
+交运算	jiao yun suan	1
+交集	jiao ji	1
+交换图	jiao huan tu	1
+交换环	jiao huan huan	1
+交换半群	jiao huan ban qun	1
+交	jiao	1
+箭	jian	1
+简化规则	jian hua gui ze	1
+简单图	jian dan tu	1
+检验错误	jian yan cuo wu	1
+假言三段论	jia yan san duan lun	1
+假设	jia she	1
+价	jia	1
+加强的鸽子笼原理	jia qiang de ge zi long yuan li	1
+加法原理	jia fa yuan li	1
+计数函数	ji shu han shu	1
+几乎相等的	ji hu xiang deng de	1
+集合的划分数	ji he de hua fen shu	1
+极小项	ji xiao xiang	1
+极小多项式	ji xiao duo xiang shi	1
+极小	ji xiao	1
+极大元	ji da yuan	1
+极大外平面图	ji da wai ping mian tu	1
+极大平面图	ji da ping mian tu	1
+极大理想	ji da li xiang	1
+基数	ji shu	1
+基础图	ji chu tu	1
+基	ji	1
+积和式	ji he shi	1
+积范畴	ji fan chou	1
+积	ji	1
+迹	ji	1
+回路	hui lu	1
+幻方	huan fang	1
+环的特征	huan de te zheng	1
+环	huan	1
+互素	hu su	1
+弧集	hu ji	1
+厚度	hou du	1
+后件	hou jian	1
+横截设计	heng jie she ji	1
+恒等自然变换	heng deng zi ran bian huan	1
+核	he	1
+和	he	1
+合式公式	he shi gong shi	1
+函子	han zi	1
+函数	han shu	1
+轨道	gui dao	1
+规律	gui lv	1
+广义	guang yi	1
+关联矩阵	guan lian ju zhen	1
+关联公理	guan lian gong li	1
+关联	guan lian	1
+古典相容的	gu dian xiang rong de	1
+古典完全的	gu dian wan quan de	1
+公因子	gong yin zi	1
+公式	gong shi	1
+公理系统	gong li xi tong	1
+根域	gen yu	1
+个体变元	ge ti bian yuan	1
+格同态	ge tong tai	1
+格	ge	1
+割点	ge dian	1
+割边	ge bian	1
+鸽子笼原理	ge zi long yuan li	1
+覆盖数	fu gai shu	1
+覆盖	fu gai	1
+赋值	fu zhi	1
+复合运算	fu he yun suan	1
+复合	fu he	1
+辅助符号	fu zhu fu hao	1
+否定后件式	fou ding hou jian shi	1
+分组码	fen zu ma	1
+分配格	fen pei ge	1
+分裂域	fen lie yu	1
+分离规则	fen li gui ze	1
+废码字	fei ma zi	1
+非特指值	fei te zhi zhi	1
+非结合代数	fei jie he dai shu	1
+非标准逻辑	fei biao zhun luo ji	1
+仿射平面	fang she ping mian	1
+方	fang	1
+范畴	fan chou	1
+泛上界	fan shang jie	1
+泛圈图	fan quan tu	1
+反演	fan yan	1
+反同构	fan tong gou	1
+反对称性	fan dui chen xing	1
+反变函子	fan bian han zi	1
+二元关系	er yuan guan xi	1
+二项式系数	er xiang shi xi shu	1
+二项式定理	er xiang shi ding li	1
+二项式变换	er xiang shi bian huan	1
+二难推理	er nan tui li	1
+二进制对称信道	er jin zhi dui chen xin dao	1
+二分图	er fen tu	1
+多重图	duo chong tu	1
+多值命题逻辑	duo zhi ming ti luo ji	1
+多项式展开定理	duo xiang shi zhan kai ding li	1
+多项式系数	duo xiang shi xi shu	1
+多项式码	duo xiang shi ma	1
+多项式环	duo xiang shi huan	1
+多项式表示法	duo xiang shi biao shi fa	1
+多项式	duo xiang shi	1
+多面体公式	duo mian ti gong shi	1
+对应的通用映射	dui ying de tong yong ying she	1
+对象	dui xiang	1
+对偶原则	dui ou yuan ze	1
+对偶原理	dui ou yuan li	1
+对偶图	dui ou tu	1
+对偶式	dui ou shi	1
+对偶命题	dui ou ming ti	1
+对偶范畴	dui ou fan chou	1
+对角线函子	dui jiao xian han zi	1
+对角线法	dui jiao xian fa	1
+对称图	dui chen tu	1
+对称群	dui chen qun	1
+对称的	dui chen de	1
+对称差	dui chen cha	1
+端点	duan dian	1
+独立数	du li shu	1
+独立集	du li ji	1
+独立的	du li de	1
+独立超越元素	du li chao yue yuan su	1
+定义域	ding yi yu	1
+定向	ding xiang	1
+定理	ding li	1
+点割集	dian ge ji	1
+点覆盖	dian fu gai	1
+点传递图	dian chuan di tu	1
+第一类边色图	di yi lei bian se tu	1
+第二类边色图	di er lei bian se tu	1
+等势	deng shi	1
+等价类	deng jia lei	1
+等价矩阵	deng jia ju zhen	1
+等价关系	deng jia guan xi	1
+等价范畴	deng jia fan chou	1
+等价对象	deng jia dui xiang	1
+导出子图	dao chu zi tu	1
+单元半群	dan yuan ban qun	1
+单元	dan yuan	1
+单位元	dan wei yuan	1
+单位理想	dan wei li xiang	1
+单同态	dan tong tai	1
+单态射	dan tai she	1
+单射函子	dan she han zi	1
+单射	dan she	1
+单扩域	dan kuo yu	1
+单代数扩域	dan dai shu kuo yu	1
+单超越扩域	dan chao yue kuo yu	1
+带符号的一阶系统	dai fu hao de yi jie xi tong	1
+代数元素	dai shu yuan su	1
+代数闭域	dai shu bi yu	1
+代数	dai shu	1
+代入定理	dai ru ding li	1
+错误模式	cuo wu mo shi	1
+错误函数	cuo wu han shu	1
+存在正则前束范式	cun zai zheng ze qian shu fan shi	1
+存在推广规则	cun zai tui guang gui ze	1
+存在特指规则	cun zai te zhi gui ze	1
+存在量词	cun zai liang ci	1
+簇	cu	1
+次数	ci shu	1
+次	ci	1
+传递的	chuan di de	1
+除环	chu huan	1
+初始联结词	chu shi lian jie ci	1
+初始对象	chu shi dui xiang	1
+初等因子理想	chu deng yin zi li xiang	1
+初等积	chu deng ji	1
+初等和	chu deng he	1
+出弧	chu hu	1
+出次	chu ci	1
+出	chu	1
+乘积	cheng ji	1
+乘法原理	cheng fa yuan li	1
+超越元素	chao yue yuan su	1
+超幂	chao mi	1
+超滤子	chao lv zi	1
+超积	chao ji	1
+超八面体图	chao ba mian ti tu	1
+常用等值式	chang yong deng zhi shi	1
+长度	chang du	1
+差运算	cha yun suan	1
+差集	cha ji	1
+猜想	cai xiang	1
+布置问题	bu zhi wen ti	1
+不对称的	bu dui chen de	1
+不动点	bu dong dian	1
+不变因子理想	bu bian yin zi li xiang	1
+不变因子	bu bian yin zi	1
+补元	bu yuan	1
+补图	bu tu	1
+并运算	bing yun suan	1
+并集公理	bing ji gong li	1
+并	bing	1
+表示	biao shi	1
+标准模型	biao zhun mo xing	1
+标准满态射	biao zhun man tai she	1
+标准单项式	biao zhun dan xiang shi	1
+变换群	bian huan qun	1
+变换	bian huan	1
+边着色	bian zhuo se	1
+边色数	bian se shu	1
+边连通度	bian lian tong du	1
+边集	bian ji	1
+边割集	bian ge ji	1
+边覆盖数	bian fu gai shu	1
+边覆盖	bian fu gai	1
+边独立数	bian du li shu	1
+闭项	bi xiang	1
+闭迹	bi ji	1
+闭包	bi bao	1
+本原元	ben yuan yuan	1
+本原多项式	ben yuan duo xiang shi	1
+被包含关系定向	bei bao han guan xi ding xiang	1
+悖论	bei lun	1
+饱和的	bao he de	1
+包含与排斥原理	bao han yu pai chi yuan li	1
+包含关系	bao han guan xi	1
+伴随	ban sui	1
+半群	ban qun	1

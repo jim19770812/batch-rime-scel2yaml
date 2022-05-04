@@ -1,0 +1,1045 @@
+---
+name: 自然语言处理及计算语言学相关术语
+version: "20220504"
+sort: by_weight
+use_preset_vocabulary: true
+...
+任务共享	ren wu gong xiang	1
+课题分享	ke ti fen xiang	1
+目标语言	mu biao yu yan	1
+目的语言	mu di yu yan	1
+组合的	zu he de	1
+组合关系结构段的	zu he guan xi jie gou duan de	1
+从属子句从句	cong shu zi ju cong ju	1
+字符串	zi fu chuan	1
+字串串	zi chuan chuan	1
+句法剖析的随机方法	ju fa pou xi de sui ji fang fa	1
+概率式句法剖析	gai lv shi ju fa pou xi	1
+面向集合型语意网路	mian xiang ji he xing yu yi wang lu	1
+集合导向型语意网路	ji he dao xiang xing yu yi wang lu	1
+句子生成程序	ju zi sheng cheng cheng xu	1
+句子产生器	ju zi chan sheng qi	1
+范围	fan wei	1
+范域作用域	fan yu zuo yong yu	1
+语言的场合层级	yu yan de chang he ceng ji	1
+调高语音学	tiao gao yu yin xue	1
+暂存器寄存器资讯科学	zan cun qi ji cun qi zi xun ke xue	1
+实时控制	shi shi kong zhi	1
+即时控制	ji shi kong zhi	1
+唯理论观点	wei li lun guan dian	1
+理性论立场	li xing lun li chang	1
+偏旁	pian pang	1
+部首	bu shou	1
+词根	ci gen	1
+字根词干	zi gen ci gan	1
+程序设计语言	cheng xu she ji yu yan	1
+程式设计语言	cheng shi she ji yu yan	1
+规范语言学	gui fan yu yan xue	1
+规定语言学	gui ding yu yan xue	1
+广义语音学	guang yi yu yin xue	1
+声韵学音位学	sheng yun xue yin wei xue	1
+词类标注	ci lei biao zhu	1
+同意互训	tong yi hu xun	1
+意译	yi yi	1
+转述释意	zhuan shu shi yi	1
+面向对向的程序设计	mian xiang dui xiang de cheng xu she ji	1
+物件导向程式设计	wu jian dao xiang cheng shi she ji	1
+物件资讯科学	wu jian zi xun ke xue	1
+宾语语言学	bin yu yu yan xue	1
+语素音位学	yu su yin wei xue	1
+词音学形态音位学	ci yin xue xing tai yin wei xue	1
+蒙塔格语法	meng ta ge yu fa	1
+蒙泰究语法	meng tai jiu yu fa	1
+智力处理	zhi li chu li	1
+心理过程智力过程	xin li guo cheng zhi li guo cheng	1
+偏正结构	pian zheng jie gou	1
+基于逻辑的语法	ji yu luo ji de yu fa	1
+逻辑为本语法	luo ji wei ben yu fa	1
+逻辑程序设计	luo ji cheng xu she ji	1
+逻辑程式设计	luo ji cheng shi she ji	1
+词库	ci ku	1
+词汇库词典	ci hui ku ci dian	1
+左角句法剖析	zuo jiao ju fa pou xi	1
+左角落剖析	zuo jiao luo pou xi	1
+关键词前后文	guan jian ci qian hou wen	1
+上下文内关键字	shang xia wen nei guan jian zi	1
+上下文中关键词	shang xia wen zhong guan jian ci	1
+感叹词	gan tan ci	1
+言谈分析综合理论	yan tan fen xi zong he li lun	1
+篇章分析综合理论	pian zhang fen xi zong he li lun	1
+情报科学	qing bao ke xue	1
+资讯科学信息科学	zi xun ke xue xin xi ke xue	1
+印欧语言	yin ou yu yan	1
+中心语驱动词组结构语法	zhong xin yu qu dong ci zu jie gou yu fa	1
+时段语法学	shi duan yu fa xue	1
+音长语音学	yin chang yu yin xue	1
+双及物动词	shuang ji wu dong ci	1
+双宾动词双宾语动词	shuang bin dong ci shuang bin yu dong ci	1
+缺省	que sheng	1
+预设值默认	yu she zhi mo ren	1
+资料驱动数据驱动	zi liao qu dong shu ju qu dong	1
+数据库知识表示	shu ju ku zhi shi biao shi	1
+资料库知识表示	zi liao ku zhi shi biao shi	1
+数据驱动型分析	shu ju qu dong xing fen xi	1
+资料驱动型分析	zi liao qu dong xing fen xi	1
+同指涉	tong zhi she	1
+同指涉互指	tong zhi she hu zhi	1
+并列连接	bing lie lian jie	1
+对称连接词同等	dui chen lian jie ci tong deng	1
+合作原则	he zuo yuan ze	1
+上下文敏感语言	shang xia wen min gan yu yan	1
+语境限定语言上下文有关语言	yu jing xian ding yu yan shang xia wen you guan yu yan	1
+语境自由语言上下文无关语言	yu jing zi you yu yan shang xia wen wu guan yu yan	1
+自然语言连接模型	zi ran yu yan lian jie mo xing	1
+自然语言类神经网路模型	zi ran yu yan lei shen jing wang lu mo xing	1
+逻辑积	luo ji ji	1
+信息论	xin xi lun	1
+通讯理论通讯论	tong xun li lun tong xun lun	1
+搭配	da pei	1
+连用语同现	lian yong yu tong xian	1
+结合力	jie he li	1
+凝结性粘着性	ning jie xing nian zhuo xing	1
+同源词	tong yuan ci	1
+层次结构	ceng ci jie gou	1
+杭士基阶层	hang shi ji jie ceng	1
+汉字编码输入	han zi bian ma shu ru	1
+中文输入法	zhong wen shu ru fa	1
+汉字交换码	han zi jiao huan ma	1
+中文资讯交换码	zhong wen zi xun jiao huan ma	1
+汉字代码	han zi dai ma	1
+中文编码	zhong wen bian ma	1
+范畴合一语法	fan chou he yi yu fa	1
+范畴连并语法	fan chou lian bing yu fa	1
+宽度优先搜索	kuan du you xian sou suo	1
+广度优先搜寻	guang du you xian sou xun	1
+粘着语素	nian zhuo yu su	1
+附着附着语素	fu zhuo fu zhuo yu su	1
+比特	bi te	1
+位元二进位制	wei yuan er jin wei zhi	1
+巴科斯诺尔范式	ba ke si nuo er fan shi	1
+巴科斯诺尔形式	ba ke si nuo er xing shi	1
+句子翻译的	ju zi fan yi de	1
+词组	ci zu	1
+对照多国语言文章词	dui zhao duo guo yu yan wen zhang ci	1
+人工智能语言	ren gong zhi neng yu yan	1
+人工智慧语言	ren gong zhi hui yu yan	1
+人工智慧	ren gong zhi hui	1
+施事动作动词	shi shi dong zuo dong ci	1
+齐普夫定律	qi pu fu ding lv	1
+利夫规律	li fu gui lv	1
+阶理论	jie li lun	1
+标杠理论	biao gang li lun	1
+书写系统	shu xie xi tong	1
+世界知识	shi jie zhi shi	1
+工作记忆工作存储区	gong zuo ji yi gong zuo cun chu qu	1
+词集	ci ji	1
+分词单位切词单位	fen ci dan wei qie ci dan wei	1
+中文分词规范	zhong wen fen ci gui fan	1
+词序	ci xu	1
+词频分布	ci pin fen bu	1
+词频	ci pin	1
+词	ci	1
+假说	jia shuo	1
+弱化动词	ruo hua dong ci	1
+波形	bo xing	1
+母音和谐元音和谐	mu yin he xie yuan yin he xie	1
+母音	mu yin	1
+声音辨识语音识别	sheng yin bian shi yu yin shi bie	1
+呼格	hu ge	1
+声道	sheng dao	1
+词条	ci tiao	1
+字汇	zi hui	1
+动宾结构	dong bin jie gou	1
+本地话	ben di hua	1
+言语生成	yan yu sheng cheng	1
+动词组	dong ci zu	1
+词语联想	ci yu lian xiang	1
+动补复合词	dong bu fu he ci	1
+动词组动词短语	dong ci zu dong ci duan yu	1
+动词	dong ci	1
+变异数方差	bian yi shu fang cha	1
+结合价	jie he jia	1
+结合价理论	jie he jia li lun	1
+结合价语法	jie he jia yu fa	1
+使用者界面用户界面	shi yong zhe jie mian yong hu jie mian	1
+使用旗标	shi yong qi biao	1
+非限制型语法	fei xian zhi xing yu fa	1
+未知词未定义词	wei zhi ci wei ding yi ci	1
+全称范域词	quan cheng fan yu ci	1
+普遍例式	pu bian li shi	1
+普遍性语法	pu bian xing yu fa	1
+连并合	lian bing he	1
+基底结构	ji di jie gou	1
+基底型式	ji di xing shi	1
+无界限依存	wu jie xian yi cun	1
+终端成分	zhong duan cheng fen	1
+类型学	lei xing xue	1
+类型	lei xing	1
+杜林测试图灵试验	du lin ce shi tu ling shi yan	1
+杜林机图灵机	du lin ji tu ling ji	1
+三连词	san lian ci	1
+树状结构树	shu zhuang jie gou shu	1
+透明性	tou ming xing	1
+翻译记忆	fan yi ji yi	1
+翻译等值性	fan yi deng zhi xing	1
+翻译	fan yi	1
+及物性	ji wu xing	1
+转移状态项集合	zhuan yi zhuang tai xiang ji he	1
+变形语法转换语法	bian xing yu fa zhuan huan yu fa	1
+变形转换	bian xing zhuan huan	1
+转换框架	zhuan huan kuang jia	1
+转换方法	zhuan huan fang fa	1
+转移	zhuan yi	1
+转换器	zhuan huan qi	1
+异动处理单位	yi dong chu li dan wei	1
+训练	xun lian	1
+痕迹理论	hen ji li lun	1
+痕迹	hen ji	1
+主题化话题化	zhu ti hua hua ti hua	1
+主题	zhu ti	1
+连调变换	lian tiao bian huan	1
+音调语言	yin diao yu yan	1
+实类标记项	shi lei biao ji xiang	1
+同义词辞典	tong yi ci ci dian	1
+定理	ding li	1
+题旨结构	ti zhi jie gou	1
+题旨角色	ti zhi jue se	1
+文本理解	wen ben li jie	1
+文本自动摘要篇章摘要	wen ben zi dong zhai yao pian zhang zhai yao	1
+文本结构篇章结构	wen ben jie gou pian zhang jie gou	1
+文本检索	wen ben jian suo	1
+文本校对	wen ben jiao dui	1
+文本规划	wen ben gui hua	1
+文本语言学	wen ben yu yan xue	1
+文本生成篇章生成	wen ben sheng cheng pian zhang sheng cheng	1
+文本一致性	wen ben yi zhi xing	1
+文本分析	wen ben fen xi	1
+文本	wen ben	1
+术语	shu yu	1
+时态	shi tai	1
+时貌标记	shi mao biao ji	1
+时间逻辑时序逻辑	shi jian luo ji shi xu luo ji	1
+循序推理时序推理	xun xu tui li shi xu tui li	1
+模板	mu ban	1
+套装合并	tao zhuang he bing	1
+分类阶层分类层次	fen lei jie ceng fen lei ceng ci	1
+系统语法	xi tong yu fa	1
+句法	ju fa	1
+句段	ju duan	1
+句法语意学	ju fa yu yi xue	1
+语法规律句法规则	yu fa gui lv ju fa gui ze	1
+句法成分	ju fa cheng fen	1
+句法类别	ju fa lei bie	1
+同义词	tong yi ci	1
+同步的	tong bu de	1
+符号化与字句化	fu hao hua yu zi ju hua	1
+音节结构限制	yin jie jie gou xian zhi	1
+音节	yin jie	1
+音节划分	yin jie hua fen	1
+超音段的	chao yin duan de	1
+异型不规则词型变化	yi xing bu gui ze ci xing bian hua	1
+上层语言	shang ceng yu yan	1
+上位的	shang wei de	1
+后缀	hou zhui	1
+底层语言	di ceng yu yan	1
+代换规则置换规则	dai huan gui ze zhi huan gui ze	1
+从属	cong shu	1
+从属关系	cong shu guan xi	1
+子语言	zi yu yan	1
+假设的	jia she de	1
+次类划分下位范畴化	ci lei hua fen xia wei fan chou hua	1
+结构共享表征	jie gou gong xiang biao zheng	1
+结构	jie gou	1
+结构主义	jie gou zhu yi	1
+结构转换	jie gou zhuan huan	1
+结构关系	jie gou guan xi	1
+结构语言学	jie gou yu yan xue	1
+结构歧义	jie gou qi yi	1
+字串匹配字符串	zi chuan pi pei zi fu chuan	1
+字串操作语言	zi chuan cao zuo yu yan	1
+阶层语法层级语法	jie ceng yu fa ceng ji yu fa	1
+爆破音	bao po yin	1
+刺激反应理论	ci ji fan ying li lun	1
+词干	ci gan	1
+统计意义	tong ji yi yi	1
+统计语言学	tong ji yu yan xue	1
+统计分析	tong ji fen xi	1
+静态属性表	jing tai shu xing biao	1
+句核	ju he	1
+状态转移图	zhuang tai zhuan yi tu	1
+事态代数	shi tai dai shu	1
+接头词	jie tou ci	1
+标准通用标示语言	biao zhun tong yong biao shi yu yan	1
+标准差	biao zhun cha	1
+扩散激发模型	kuo san ji fa mo xing	1
+语音理解系统	yu yin li jie xi tong	1
+语音翻译系统	yu yin fan yi xi tong	1
+语音合成	yu yin he cheng	1
+言谈情境言语情境	yan tan qing jing yan yu qing jing	1
+语音检索	yu yin jian suo	1
+语音辨识	yu yin bian shi	1
+语言失序言语缺失	yu yan shi xu yan yu que shi	1
+言语连续体	yan yu lian xu ti	1
+言语行为指定	yan yu xing wei zhi ding	1
+口语	kou yu	1
+频谱	pin pu	1
+非特定语者语音识别	fei te ding yu zhe yu yin shi bie	1
+排序	pai xu	1
+软体工程软件工程	ruan ti gong cheng ruan jian gong cheng	1
+社会语言学	she hui yu yan xue	1
+社会环境	she hui huan jing	1
+情境类型	qing jing lei xing	1
+情境语意学	qing jing yu yi xue	1
+情境	qing jing	1
+单纯词	dan chun ci	1
+信号处理技术	xin hao chu li ji shu	1
+信号	xin hao	1
+短程记忆	duan cheng ji yi	1
+结构化通用标记语言	jie gou hua tong yong biao ji yu yan	1
+连动结构	lian dong jie gou	1
+顺序学习	shun xu xue xi	1
+序列	xu lie	1
+同音词区分	tong yin ci qu fen	1
+句型	ju xing	1
+句子	ju zi	1
+感官讯息感觉信息	gan guan xun xi gan jue xin xi	1
+感觉运动期	gan jue yun dong qi	1
+发送者	fa song zhe	1
+符号学	fu hao xue	1
+意素	yi su	1
+语意学	yu yi xue	1
+语意结构	yu yi jie gou	1
+语意限制	yu yi xian zhi	1
+语意表征语言	yu yi biao zheng yu yan	1
+语意表征语义表示	yu yi biao zheng yu yi biao shi	1
+语意网路	yu yi wang lu	1
+语意架构	yu yi jia gou	1
+语意场	yu yi chang	1
+选择限制	xuan ze xian zhi	1
+分段标志	fen duan biao zhi	1
+分词	fen ci	1
+二阶述词	er jie shu ci	1
+检索路径搜索路径	jian suo lu jing sou suo lu jing	1
+检索空间	jian suo kong jian	1
+检索机制	jian suo ji zhi	1
+脚本	jiao ben	1
+教学语法	jiao xue yu fa	1
+基朴	ji pu	1
+强健性处理	qiang jian xing chu li	1
+强健性	qiang jian xing	1
+修辞学	xiu ci xue	1
+修辞结构	xiu ci jie gou	1
+述位	shu wei	1
+重写规则	chong xie gui ze	1
+逆抑制	ni yi zhi	1
+复指代词	fu zhi dai ci	1
+受限逻辑语法	shou xian luo ji yu fa	1
+松弛法	song chi fa	1
+关系子句	guan xi zi ju	1
+关联式资料库关系数据库	guan lian shi zi liao ku guan xi shu ju ku	1
+正规语言正则语言	zheng gui yu yan zheng ze yu yan	1
+指涉词指示短语	zhi she ci zhi shi duan yu	1
+指标	zhi biao	1
+指称对象	zhi cheng dui xiang	1
+指涉	zhi she	1
+重迭词重复	zhong die ci chong fu	1
+递回转移网路	di hui zhuan yi wang lu	1
+即时	ji shi	1
+阅读实验室	yue du shi yan shi	1
+理性论	li xing lun	1
+随机存取	sui ji cun qu	1
+元组数基	yuan zu shu ji	1
+伫列	zhu lie	1
+问答系统	wen da xi tong	1
+计量语言学	ji liang yu yan xue	1
+范域词	fan yu ci	1
+量化	liang hua	1
+后置修饰	hou zhi xiu shi	1
+下推转换器	xia tui zhuan huan qi	1
+下推自动机	xia tui zi dong ji	1
+标点符号	biao dian fu hao	1
+心理语言学	xin li yu yan xue	1
+准分裂句	zhun fen lie ju	1
+原型	yuan xing	1
+节律	jie lv	1
+专有名词	zhuan you ming ci	1
+校对系统	jiao dui xi tong	1
+程式	cheng shi	1
+解决问题	jie jue wen ti	1
+概率句法剖析程式	gai lv ju fa pou xi cheng shi	1
+二元对立的	er yuan dui li de	1
+语意合成性原理	yu yi he cheng xing yuan li	1
+前提	qian ti	1
+引介句	yin jie ju	1
+介词	jie ci	1
+前置修饰	qian zhi xiu shi	1
+前缀	qian zhui	1
+述词论元结构	shu ci lun yuan jie gou	1
+述词逻辑谓词逻辑	shu ci luo ji wei ci luo ji	1
+述词计算	shu ci ji suan	1
+述词	shu ci	1
+精确度	jing que du	1
+优先顺序语法	you xian shun xu yu fa	1
+语用学	yu yong xue	1
+介词依附	jie ci yi fu	1
+词类标记	ci lei biao ji	1
+多义性	duo yi xing	1
+可能性函数	ke neng xing han shu	1
+承轴结构	cheng zhou jie gou	1
+枢轴语法	shu zhou yu fa	1
+调形变化	tiao xing bian hua	1
+音调	yin diao	1
+词组标记短语标记	ci zu biao ji duan yu biao ji	1
+词组短语	ci zu duan yu	1
+词组动词短语动词	ci zu dong ci duan yu dong ci	1
+音位排列理论	yin wei pai lie li lun	1
+音标	yin biao	1
+语音学	yu yin xue	1
+音素层	yin su ceng	1
+因素分析	yin su fen xi	1
+音素	yin su	1
+语音	yu yin	1
+语文学	yu wen xue	1
+网语法	wang yu fa	1
+语效性的	yu xiao xing de	1
+用独立词表达	yong du li ci biao da	1
+行为句	xing wei ju	1
+感知策略	gan zhi ce lue	1
+感觉器感知器	gan jue qi gan zhi qi	1
+知觉	zhi jue	1
+型样识别	xing yang shi bie	1
+语助词	yu zhu ci	1
+剖析器句法剖析程序	pou xi qi ju fa pou xi cheng xu	1
+言语	yan yu	1
+平行分布处理	ping xing fen bu chu li	1
+平行语料库	ping xing yu liao ku	1
+并列结构	bing lie jie gou	1
+附语言	fu yu yan	1
+聚合关系	ju he guan xi	1
+过度衍生	guo du yan sheng	1
+过度概化	guo du gai hua	1
+最佳化最优化	zui jia hua zui you hua	1
+运算元操作对象	yun suan yuan cao zuo dui xiang	1
+开放集	kai fang ji	1
+本体论	ben ti lun	1
+个体发生	ge ti fa sheng	1
+节首音	jie shou yin	1
+拟声词	ni sheng ci	1
+线上查询词典联机词点	xian shang cha xun ci dian lian ji ci dian	1
+一元述语	yi yuan shu yu	1
+官方语言	guan fang yu yan	1
+名词组完全性	ming ci zu wan quan xing	1
+名词组	ming ci zu	1
+名词	ming ci	1
+常态分布	chang tai fen bu	1
+非单调推理	fei dan diao tui li	1
+非限定式子句	fei xian ding shi zi ju	1
+非限定	fei xian ding	1
+暂用的	zan yong de	1
+名物化	ming wu hua	1
+节点	jie dian	1
+连词模型	lian ci mo xing	1
+连词	lian ci	1
+中立化	zhong li hua	1
+神经语言学	shen jing yu yan xue	1
+类神经网路	lei shen jing wang lu	1
+网路	wang lu	1
+崁套结构	kan tao jie gou	1
+新词语	xin ci yu	1
+否定句	fou ding ju	1
+否定	fou ding	1
+自然语言理解	zi ran yu yan li jie	1
+自然语言处理	zi ran yu yan chu li	1
+自然语言	zi ran yu yan	1
+相互讯息	xiang hu xun xi	1
+互斥	hu chi	1
+语音转换	yu yin zhuan huan	1
+多态逻辑	duo tai luo ji	1
+多重继承	duo chong ji cheng	1
+多媒体	duo mei ti	1
+多语翻译	duo yu fan yi	1
+多语讯息处理系统	duo yu xun xi chu li xi tong	1
+机读辞典	ji du ci dian	1
+移位	yi wei	1
+肌动理论	ji dong li lun	1
+词句法	ci ju fa	1
+形态音位规则	xing tai yin wei gui ze	1
+构词学	gou ci xue	1
+语素切分	yu su qie fen	1
+构词律词法规则	gou ci lv ci fa gui ze	1
+词素处理	ci su chu li	1
+词型	ci xing	1
+语素分解	yu su fen jie	1
+构词词缀	gou ci ci zhui	1
+词素	ci su	1
+语气	yu qi	1
+单调性	dan diao xing	1
+单调	dan diao	1
+单元音	dan yuan yin	1
+模组	mo zu	1
+模组化句法剖析系统	mo zu hua ju fa pou xi xi tong	1
+模组化逻辑语法	mo zu hua luo ji yu fa	1
+修饰语	xiu shi yu	1
+情态逻辑	qing tai luo ji	1
+情态助动词	qing tai zhu dong ci	1
+情态词	qing tai ci	1
+微言主义	wei yan zhu yi	1
+最小对	zui xiao dui	1
+中间式结构	zhong jian shi jie gou	1
+微观语言学	wei guan yu yan xue	1
+语音易位	yu yin yi wei	1
+律上律元规则	lv shang lv yuan gui ze	1
+隐喻扩展	yin yu kuo zhan	1
+隐喻	yin yu	1
+超语言	chao yu yan	1
+心理模型	xin li mo xing	1
+心理词汇库	xin li ci hui ku	1
+根据记忆的	gen ju ji yi de	1
+讯习测度信息测度	xun xi ce du xin xi ce du	1
+语句平均长度	yu ju ping jun chang du	1
+最大熵	zui da shang	1
+数理语言学	shu li yu yan xue	1
+马可夫图	ma ke fu tu	1
+宏观语言学	hong guan yu yan xue	1
+机器翻译	ji qi fan yi	1
+机器学习	ji qi xue xi	1
+机器语言	ji qi yu yan	1
+机器词典	ji qi ci dian	1
+剖析	pou xi	1
+最长匹配原则最长一致法	zui chang pi pei yuan ze zui chang yi zhi fa	1
+长期记忆	chang qi ji yi	1
+逻辑算子逻辑算符	luo ji suan zi luo ji suan fu	1
+逻辑阵列网路	luo ji zhen lie wang lu	1
+逻辑	luo ji	1
+惯用语	guan yong yu	1
+轨迹模型	gui ji mo xing	1
+方位词	fang wei ci	1
+方位主义	fang wei zhu yi	1
+局部的	ju bu de	1
+外来语	wai lai yu	1
+串列	chuan lie	1
+语言单位	yu yan dan wei	1
+语言解码	yu yan jie ma	1
+共通语	gong tong yu	1
+线性次序	xian xing ci xu	1
+线性有限自主机	xian xing you xian zi zhu ji	1
+连音	lian yin	1
+词汇功能语法	ci hui gong neng yu fa	1
+逻辑形式	luo ji xing shi	1
+词汇层	ci hui ceng	1
+词汇学	ci hui xue	1
+词典学	ci dian xue	1
+词汇语意学	ci hui yu yi xue	1
+词语完整性	ci yu wan zheng xing	1
+选词标准	xuan ci biao zhun	1
+词项	ci xiang	1
+词汇概念结构	ci hui gai nian jie gou	1
+词类	ci lei	1
+词汇歧义	ci hui qi yi	1
+词汇单位	ci hui dan wei	1
+字转音	zi zhuan yin	1
+弱辅音	ruo fu yin	1
+词元	ci yuan	1
+语言科技	yu yan ke ji	1
+语言模型	yu yan mo xing	1
+语感	yu gan	1
+语言生成	yu yan sheng cheng	1
+语言工程	yu yan gong cheng	1
+语言习得	yu yan xi de	1
+发声延迟	fa sheng yan chi	1
+语言习得装置	yu yan xi de zhuang zhi	1
+软颚唇音	ruan e chun yin	1
+唇齿音	chun chi yin	1
+唇音	chun yin	1
+标签	biao qian	1
+知识表示	zhi shi biao shi	1
+知识撷取知识题取	zhi shi xie qu zhi shi ti qu	1
+知识为本之机器翻译	zhi shi wei ben zhi ji qi fan yi	1
+知识库	zhi shi ku	1
+知识习得	zhi shi xi de	1
+体势学	ti shi xue	1
+同形现象	tong xing xian xiang	1
+关系	guan xi	1
+语调单位	yu diao dan wei	1
+语调	yu diao	1
+诠释性语意学	quan shi xing yu yi xue	1
+网际网路	wang ji wang lu	1
+国际语音学会	guo ji yu yin xue hui	1
+内化	nei hua	1
+对话者	dui hua zhe	1
+中介语言	zhong jie yu yan	1
+内含类型	nei han lei xing	1
+内涵语意学	nei han yu yi xue	1
+内含逻辑	nei han luo ji	1
+加强成分	jia qiang cheng fen	1
+知识密集型生产	zhi shi mi ji xing sheng chan	1
+集成句法剖析程式	ji cheng ju fa pou xi cheng shi	1
+工具格	gong ju ge	1
+体现	ti xian	1
+里里外外演算法	li li wai wai yan suan fa	1
+中插	zhong cha	1
+语法天生假说	yu fa tian sheng jia shuo	1
+属性继承	shu xing ji cheng	1
+继承阶层继承层次	ji cheng jie ceng ji cheng ceng ci	1
+继承	ji cheng	1
+固有特征	gu you te zheng	1
+资讯理论信息论	zi xun li lun xin xi lun	1
+资讯检索	zi xun jian suo	1
+资讯处理信息处理	zi xun chu li xin xi chu li	1
+资讯撷取	zi xun xie qu	1
+屈折词缀	qu zhe ci zhui	1
+屈折变化	qu zhe bian hua	1
+中缀	zhong zhui	1
+不定词不定式	bu ding ci bu ding shi	1
+推理机器	tui li ji qi	1
+归纳推理	gui na tui li	1
+间接言谈行动间接言语行为	jian jie yan tan xing dong jian jie yan yu xing wei	1
+间接宾语	jian jie bin yu	1
+标引的	biao yin de	1
+含意	han yi	1
+蕴含谓词	yun han wei ci	1
+祈使句	qi shi ju	1
+施为性	shi wei xing	1
+特异性	te yi xing	1
+成语熟语	cheng yu shu yu	1
+讯息为本的格位语法	xun xi wei ben de ge wei yu fa	1
+直接成份	zhi jie cheng fen	1
+主从结构的	zhu cong jie gou de	1
+下位词	xia wei ci	1
+超文件超文本	chao wen jian chao wen ben	1
+上位词	shang wei ci	1
+人机界面	ren ji jie mian	1
+子句	zi ju	1
+同部位音的	tong bu wei yin de	1
+同音异义	tong yin yi yi	1
+同音词	tong yin ci	1
+同音异义词	tong yin yi yi ci	1
+同形异义词	tong xing yi yi ci	1
+单词句	dan ci ju	1
+阶层结构层次结构	jie ceng jie gou ceng ci jie gou	1
+隐式马可夫模型	yin shi ma ke fu mo xing	1
+经验知识	jing yan zhi shi	1
+经验式句法剖析	jing yan shi ju fa pou xi	1
+同形	tong xing	1
+中心语特征继承原理中心词特性继承原理	zhong xin yu te zheng ji cheng yuan li zhong xin ci te xing ji cheng yuan li	1
+中心语驱动词组结构中心词驱动词组结构	zhong xin yu qu dong ci zu jie gou zhong xin ci qu dong ci zu jie gou	1
+中心语	zhong xin yu	1
+类音删略	lei yin shan lue	1
+字素	zi su	1
+语法关系	yu fa guan xi	1
+文法推论	wen fa tui lun	1
+语法功能	yu fa gong neng	1
+语法范畴	yu fa fan chou	1
+语法词缀	yu fa ci zhui	1
+文法检查器	wen fa jian cha qi	1
+可分级性	ke fen ji xing	1
+管辖约束理论	guan xia yue shu li lun	1
+动名词	dong ming ci	1
+属格	shu ge	1
+属格标记	shu ge biao ji	1
+发生认识论	fa sheng ren shi lun	1
+泛指	fan zhi	1
+衍生语言学生成语言学	yan sheng yu yan xue sheng cheng yu yan xue	1
+衍生语法	yan sheng yu fa	1
+概化词组结构语法广义短语结构语法	gai hua ci zu jie gou yu fa guang yi duan yu jie gou yu fa	1
+性	xing	1
+重迭音	zhong die yin	1
+管辖约束	guan xia yue shu	1
+花园路径句	hua yuan lu jing ju	1
+基频	ji pin	1
+功能符	gong neng fu	1
+功能连并功能合	gong neng lian bing gong neng he	1
+功能句子观	gong neng ju zi guan	1
+函数型程式设计函数型程序设计	han shu xing cheng shi she ji han shu xing cheng xu she ji	1
+功能语法	gong neng yu fa	1
+功能词	gong neng ci	1
+全文检索	quan wen jian suo	1
+功能结构	gong neng jie gou	1
+擦音	ca yin	1
+自由语素	zi you yu su	1
+框架理论	kuang jia li lun	1
+框架型知识表示	kuang jia xing zhi shi biao shi	1
+框架	kuang jia	1
+前向推理向前推理	qian xiang tui li xiang qian tui li	1
+形式语意学	xing shi yu yi xue	1
+形式语言学	xing shi yu yan xue	1
+形式语言理论	xing shi yu yan li lun	1
+前景讯息前景信息	qian jing xun xi qian jing xin xi	1
+降音	jiang yin	1
+闪音	shan yin	1
+有限状态置换器	you xian zhuang tai zhi huan qi	1
+有限状态机	you xian zhuang tai ji	1
+有限状态语言	you xian zhuang tai yu yan	1
+有限状态构词法有限状态词法	you xian zhuang tai gou ci fa you xian zhuang tai ci fa	1
+有限状态	you xian zhuang tai	1
+有限状态机有限自动机	you xian zhuang tai ji you xian zi dong ji	1
+档案结构	dang an jie gou	1
+妥适条件	tuo shi tiao jian	1
+回馈	hui kui	1
+特征连并特性合	te zheng lian bing te xing he	1
+特征结构特性结构	te zheng jie gou te xing jie gou	1
+特征体现	te zheng ti xian	1
+特征束	te zheng shu	1
+特征	te zheng	1
+易度值	yi du zhi	1
+移外变形外置转换	yi wai bian xing wai zhi zhuan huan	1
+域外论元	yu wai lun yuan	1
+专家系统	zhuan jia xi tong	1
+经验者格	jing yan zhe ge	1
+感叹	gan tan	1
+事件驱动型控制	shi jian qu dong xing kong zhi	1
+事件	shi jian	1
+词源学	ci yuan xue	1
+无功能关系	wu gong neng guan xi	1
+世界语	shi jie yu	1
+作格性	zuo ge xing	1
+作格动词	zuo ge dong ci	1
+认识论网路	ren shi lun wang lu	1
+情节性记忆	qing jie xing ji yi	1
+条目	tiao mu	1
+熵	shang	1
+实体	shi ti	1
+蕴涵	yun han	1
+语境照应	yu jing zhao ying	1
+同心的	tong xin de	1
+终端用户最终用户	zhong duan yong hu zui zhong yong hu	1
+后接成份	hou jie cheng fen	1
+虚词	xu ci	1
+虚范畴原则空范畴原理	xu fan chou yuan ze kong fan chou yuan li	1
+经验论	jing yan lun	1
+功能关系的	gong neng guan xi de	1
+崁入	kan ru	1
+省略	sheng lue	1
+基本字串基本单词串	ji ben zi chuan ji ben dan ci chuan	1
+电子词典	dian zi ci dian	1
+紧喉音	jin hou yin	1
+呼气音	hu qi yin	1
+回声句	hui sheng ju	1
+动态规划	dong tai gui hua	1
+虚位	xu wei	1
+降级	jiang ji	1
+双基	shuang ji	1
+交互中插	jiao hu zhong cha	1
+领域依存性领域依存关系	ling yu yi cun xing ling yu yi cun guan xi	1
+文件检索系统文献检索系统	wen jian jian suo xi tong wen xian jian suo xi tong	1
+定名结构	ding ming jie gou	1
+定量结构	ding liang jie gou	1
+扩散分化	kuo san fen hua	1
+双音节的	shuang yin jie de	1
+分布式文本剖析	fen bu shi wen ben pou xi	1
+分布协调型推理	fen bu xie tiao xing tui li	1
+分散式的	fen san shi de	1
+异化	yi hua	1
+选言	xuan yan	1
+离散的	li san de	1
+言谈结构	yan tan jie gou	1
+言谈策略	yan tan ce lue	1
+篇章表征理论言谈表示理论	pian zhang biao zheng li lun yan tan biao shi li lun	1
+篇章规划	pian zhang gui hua	1
+篇章分析言谈分析	pian zhang fen xi yan tan fen xi	1
+篇章	pian zhang	1
+消除歧义歧义消除	xiao chu qi yi qi yi xiao chu	1
+有向非循环图	you xiang fei xun huan tu	1
+双连音	shuang lian yin	1
+指小词	zhi xiao ci	1
+二合字母	er he zi mu	1
+双言	shuang yan	1
+数位处理数值处理	shu wei chu li shu zhi chu li	1
+辞典条目	ci dian tiao mu	1
+辞典资料库词点数据库	ci dian zi liao ku ci dian shu ju ku	1
+方言学	fang yan xue	1
+附加符号	fu jia fu hao	1
+历时语言学	li shi yu yan xue	1
+发展心理学	fa zhan xin li xue	1
+决定型语法剖析器确定性句法剖析程序	jue ding xing yu fa pou xi qi que ding xing ju fa pou xi cheng xu	1
+决定型有限状态机	jue ding xing you xian zhuang tai ji	1
+决定型演算法确定性算法	jue ding xing yan suan fa que ding xing suan fa	1
+限定词	xian ding ci	1
+意愿的	yi yuan de	1
+描述语言学描写语言学	miao shu yu yan xue miao xie yu yan xue	1
+描述型语法描写语法	miao shu xing yu fa miao xie yu fa	1
+派生性附着语素	pai sheng xing fu zhuo yu su	1
+派生	pai sheng	1
+依存关系语法	yi cun guan xi yu fa	1
+依存关系	yi cun guan xi	1
+符号逻辑	fu hao luo ji	1
+外延	wai yan	1
+定界符号定界符	ding jie fu hao ding jie fu	1
+指示	zhi shi	1
+自由度	zi you du	1
+程度副词	cheng du fu ci	1
+有限状态语法	you xian zhuang tai yu fa	1
+有限状态自动机	you xian zhuang tai zi dong ji	1
+确定子句语法	que ding zi ju yu fa	1
+定指	ding zhi	1
+演译资料库演译数据库	yan yi zi liao ku yan yi shu ju ku	1
+分解	fen jie	1
+陈述性知识	chen shu xing zhi shi	1
+与格	yu ge	1
+资料库数据库	zi liao ku shu ju ku	1
+资料结构数据结构	zi liao jie gou shu ju jie gou	1
+资料压缩数据压缩	zi liao ya suo shu ju ya suo	1
+动介词	dong jie ci	1
+课程软体课件	ke cheng ruan ti ke jian	1
+相关性	xiang guan xing	1
+语料库语言学	yu liao ku yu yan xue	1
+语料库	yu liao ku	1
+前舌音	qian she yin	1
+系词	xi ci	1
+共现关系同现关系	gong xian guan xi tong xian guan xi	1
+会话含义	hui hua han yi	1
+收敛趋同现象	shou lian qu tong xian xiang	1
+约定俗成规约	yue ding su cheng gui yue	1
+控制论	kong zhi lun	1
+控制结构	kong zhi jie gou	1
+控制一致原理	kong zhi yi zhi yuan li	1
+缩约	suo yue	1
+连续语音识别	lian xu yu yin shi bie	1
+连续音	lian xu yin	1
+语境	yu jing	1
+实词	shi ci	1
+句构语法	ju gou yu fa	1
+限制条件的传递限定因素增殖	xian zhi tiao jian de chuan di xian ding yin su zeng zhi	1
+限制	xian zhi	1
+词组结构树	ci zu jie gou shu	1
+子音辅音	zi yin fu yin	1
+隐涵意义	yin han yi yi	1
+类神经网路模型	lei shen jing wang lu mo xing	1
+连续语言	lian xu yu yan	1
+连接的	lian jie de	1
+连接	lian jie	1
+条件决定条件决策	tiao jian jue ding tiao jian jue ce	1
+并行句法剖析	bing xing ju fa pou xi	1
+谐和	xie he	1
+概念阶层	gai nian jie ceng	1
+概念依存	gai nian yi cun	1
+概念分类	gai nian fen lei	1
+串联	chuan lian	1
+计算机语言	ji suan ji yu yan	1
+计算句法学	ji suan ju fa xue	1
+计算语意学	ji suan yu yi xue	1
+计算语用学	ji suan yu yong xue	1
+计算声韵学	ji suan sheng yun xue	1
+计算语音学	ji suan yu yin xue	1
+计算语言学	ji suan yu yan xue	1
+计算词典编纂学	ji suan ci dian bian zuan xue	1
+计算词汇语意学	ji suan ci hui yu yi xue	1
+复合词	fu he ci	1
+语意合成性合成性	yu yi he cheng xing he cheng xing	1
+成分	cheng fen	1
+复杂度	fu za du	1
+复杂符号	fu za fu hao	1
+复杂状态结构	fu za zhuang tai jie gou	1
+复杂谓语	fu za wei yu	1
+补语标记	bu yu biao ji	1
+互补分布	hu bu fen bu	1
+互补	hu bu	1
+补语	bu yu	1
+编译器	bian yi qi	1
+语言知能	yu yan zhi neng	1
+比较	bi jiao	1
+比较语言学	bi jiao yu yan xue	1
+常识语意学	chang shi yu yi xue	1
+许诺语行	xu nuo yu xing	1
+评论	ping lun	1
+组合范畴语法	zu he fan chou yu fa	1
+合并词	he bing ci	1
+合并中插	he bing zhong cha	1
+合并结构	he bing jie gou	1
+集合的	ji he de	1
+合并	he bing	1
+一致性	yi zhi xing	1
+认知语言学	ren zhi yu yan xue	1
+代码变换	dai ma bian huan	1
+音节尾	yin jie wei	1
+音群	yin qun	1
+封闭世界假说	feng bi shi jie jia shuo	1
+附着词	fu zhuo ci	1
+啧音	ze yin	1
+分裂句	fen lie ju	1
+类别词	lei bie ci	1
+演算法	yan suan fa	1
+基本形式	ji ben xing shi	1
+选择	xuan ze	1
+验证	yan zheng	1
+受阻的	shou zu de	1
+表式剖析图表句法分析	biao shi pou xi tu biao ju fa fen xi	1
+炼	lian	1
+央元音化	yang yuan yin hua	1
+使役性	shi yi xing	1
+使役动词	shi yi dong ci	1
+使动	shi dong	1
+范畴语法	fan chou yu fa	1
+下指	xia zhi	1
+电脑辅助翻译	dian nao fu zhu fan yi	1
+格位标志	ge wei biao zhi	1
+格位语法	ge wei yu fa	1
+格位框架	ge wei kuang jia	1
+格位	ge wei	1
+基本元音	ji ben yuan yin	1
+基数的	ji shu de	1
+能力	neng li	1
+典范的	dian fan de	1
+电脑辅助语言学习	dian nao fu zhu yu yan xue xi	1
+电脑辅助教学	dian nao fu zhu jiao xue	1
+位元组	wei yuan zu	1
+缓冲区	huan chong qu	1
+气息音的	qi xi yin de	1
+换气单位	huan qi dan wei	1
+分枝法	fen zhi fa	1
+方括弧法	fang kuo hu fa	1
+界线符号	jie xian fu hao	1
+界线标记	jie xian biao ji	1
+由下而上剖析	you xia er shang pou xi	1
+由下而上	you xia er shang	1
+借移	jie yi	1
+布林网格布尔网格	bu lin wang ge bu er wang ge	1
+肢体语言	zhi ti yu yan	1
+封阻封杀	feng zu feng sha	1
+省并词	sheng bing ci	1
+舌叶	she ye	1
+双向唯一性	shuang xiang wei yi xing	1
+约束	yue shu	1
+双向特征二分征性	shuang xiang te zheng er fen zheng xing	1
+双语关键词前后文排序程式	shuang yu guan jian ci qian hou wen pai xu cheng shi	1
+双边的	shuang bian de	1
+双唇音	shuang chun yin	1
+双连词	shuang lian ci	1
+双向串列	shuang xiang chuan lie	1
+最佳优先句法剖析器	zui jia you xian ju fa pou xi qi	1
+信念系统	xin nian xi tong	1
+行为主义	xing wei zhu yi	1
+贝式统计	bei shi tong ji	1
+贝式学习	bei shi xue xi	1
+词基	ci ji	1
+平衡语料库	ping heng yu liao ku	1
+逆向删略	ni xiang shan lue	1
+回溯	hui su	1
+儿语	er yu	1
+公理	gong li	1
+助动词	zhu dong ci	1
+自主的	zi zhu de	1
+自动机	zi dong ji	1
+自动分词	zi dong fen ci	1
+自动训练	zi dong xun lian	1
+自动切分	zi dong qie fen	1
+自动索引	zi dong suo yin	1
+自动文件分类	zi dong wen jian fen lei	1
+听觉语音学	ting jue yu yin xue	1
+属性	shu xing	1
+经证实的	jing zheng shi de	1
+扩充转移网路	kuo chong zhuan yi wang lu	1
+标星号	biao xing hao	1
+联想词组	lian xiang ci zu	1
+关联	guan lian	1
+同化	tong hua	1
+指派	zhi pai	1
+送气	song qi	1
+气音	qi yin	1
+态体	tai ti	1
+美国标准资讯交换码	mei guo biao zhun zi xun jiao huan ma	1
+人工语言	ren gong yu yan	1
+发音语音学	fa yin yu yin xue	1
+发音结构	fa yin jie gou	1
+阵列	zhen lie	1
+配列	pei lie	1
+论元结构变元结构	lun yuan jie gou bian yuan jie gou	1
+论元变元	lun yuan bian yuan	1
+大音位	da yin wei	1
+任意性	ren yi xing	1
+近似匹配	jin si pi pei	1
+无擦通音	wu ca tong yin	1
+恰当的	qia dang de	1
+同位结构	tong wei jie gou	1
+同位语	tong wei yu	1
+原则	yuan ze	1
+反义	fan yi	1
+反义词	fan yi ci	1
+舌前音	she qian yin	1
+先行词	xian xing ci	1
+正反问句	zheng fan wen ju	1
+有生的	you sheng de	1
+照应语前方照应词	zhao ying yu qian fang zhao ying ci	1
+可分析的	ke fen xi de	1
+类推	lei tui	1
+美国结构主义	mei guo jie gou zhu yi	1
+歧义消解	qi yi xiao jie	1
+歧义	qi yi	1
+齿龈音	chi yin yin	1
+交替	jiao ti	1
+拼音文字	pin yin wen zi	1
+标记	biao ji	1
+同位音位	tong wei yin wei	1
+同位语素	tong wei yu su	1
+同位	tong wei	1
+可分割的	ke fen ge de	1
+演算法算法	yan suan fa suan fa	1
+代数语言学	dai shu yu yan xue	1
+人工智慧人工智能	ren gong zhi hui ren gong zhi neng	1
+对谐	dui xie	1
+施事	shi shi	1
+塞擦音	se ca yin	1
+加缀	jia zhui	1
+词缀	ci zhui	1
+影响的	ying xiang de	1
+副词片语	fu ci pian yu	1
+副词	fu ci	1
+加接	jia jie	1
+附加语附加修饰语	fu jia yu fu jia xiu shi yu	1
+形容词	xing rong ci	1
+邻对	lin dui	1
+妥善性	tuo shan xing	1
+位址资讯科学	wei zhi zi xun ke xue	1
+锐音	rui yin	1
+实现	shi xian	1
+主动动词	zhu dong dong ci	1
+主动知识	zhu dong zhi shi	1
+活动图句法剖析程序	huo dong tu ju fa pou xi cheng xu	1
+主动语态	zhu dong yu tai	1
+动作动词	dong zuo dong ci	1
+习得	xi de	1
+声学语音学	sheng xue yu yin xue	1
+重音	zhong yin	1
+口音	kou yin	1
+突发音	tu fa yin	1
+缩写省略语	suo xie sheng lue yu	1
+连接词合取	lian jie ci he qu	1
+替换简化式剖析	ti huan jian hua shi pou xi	1
+述补中插	shu bu zhong cha	1
+多媒体通讯	duo mei ti tong xun	1
+模组性	mo zu xing	1
+中介语	zhong jie yu	1
+中间成分	zhong jian cheng fen	1
+中心语驱动词组结构律	zhong xin yu qu dong ci zu jie gou lv	1
+前前后后演算法	qian qian hou hou yan suan fa	1
+特征同现限制特性同现限制	te zheng tong xian xian zhi te xing tong xian xian zhi	1
+排它性逻辑	pai ta xing luo ji	1
+以例句为本的机器翻译	yi li ju wei ben de ji qi fan yi	1
+深度优先搜寻	shen du you xian sou xun	1
+成分结构	cheng fen jie gou	1
+违反语感	wei fan yu gan	1
+语料库为本的学习	yu liao ku wei ben de xue xi	1
+电脑辅助语言学习计算机辅助语言学习	dian nao fu zhu yu yan xue xi ji suan ji fu zhu yu yan xue xi	1
+电脑辅助翻译计算机辅助翻译	dian nao fu zhu fan yi ji suan ji fu zhu fan yi	1
+布隆菲尔德	bu long fei er de	1
+受益格	shou yi ge	1
+逆生构词	ni sheng gou ci	1
+预期	yu qi	1
+胶着	jiao zhuo	1
+称呼语言学	cheng hu yu yan xue	1
+受格	shou ge	1
+夺格	duo ge	1
+基于合一的语法	ji yu he yi de yu fa	1
+连并为本的语法	lian bing wei ben de yu fa	1
+实类节点	shi lei jie dian	1
+标记类型	biao ji lei xing	1
+语法关系树库	yu fa guan xi shu ku	1
+树图资料库	shu tu zi liao ku	1
+树连接语法	shu lian jie yu fa	1
+树形加接语法	shu xing jia jie yu fa	1
+速记翻译	su ji fan yi	1
+转写抄写	zhuan xie chao xie	1
+由上而下自顶向下	you shang er xia zi ding xiang xia	1
+同义反复	tong yi fan fu	1
+重言式	chong yan shi	1
+套套逻辑恒真式	tao tao luo ji heng zhen shi	1

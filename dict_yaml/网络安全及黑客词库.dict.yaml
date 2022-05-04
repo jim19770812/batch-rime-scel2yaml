@@ -1,0 +1,173 @@
+---
+name: 网络安全及黑客词库.txt
+version: "20220504"
+sort: by_weight
+use_preset_vocabulary: true
+...
+中国网络新四军	zhong guo wang luo xin si jun	1
+蠕虫	ru chong	1
+渗透	shen tou	1
+代理	dai li	1
+装逼	zhuang bi	1
+箱子	xiang zi	1
+信封	xin feng	1
+大大	da da	1
+大牛	da niu	1
+牛人	niu ren	1
+牛逼	niu bi	1
+流行词汇	liu xing ci hui	1
+机器狗	ji qi gou	1
+网银大盗	wang yin da dao	1
+五毒虫	wu du chong	1
+恶鹰	e ying	1
+安哥	an ge	1
+冲击波	chong ji bo	1
+尼姆达	ni mu da	1
+马吉斯	ma ji si	1
+欢乐时光	huan le shi guang	1
+求职信	qiu zhi xin	1
+红色代码	hong se dai ma	1
+圣诞节	sheng dan jie	1
+网络天空	wang luo tian kong	1
+科多兽	ke duo shou	1
+震荡波	zhen dang bo	1
+威金	wei jin	1
+维金	wei jin	1
+橙色八月	cheng se ba yue	1
+熊猫烧香	xiong mao shao xiang	1
+病毒词汇	bing du ci hui	1
+联想慧盾	lian xiang hui dun	1
+木马彩衣	mu ma cai yi	1
+花指令	hua zhi ling	1
+冰狐浪子	bing hu lang zi	1
+一句话	yi ju hua	1
+蓝屏	lan ping	1
+采飞扬	cai fei yang	1
+站长助手	zhan zhang zhu shou	1
+海阳顶端	hai yang ding duan	1
+瑞士军刀	rui shi jun dao	1
+扫描器	sao miao qi	1
+解码器	jie ma qi	1
+守望者	shou wang zhe	1
+灰鸽子	hui ge zi	1
+数据库	shu ju ku	1
+明小子	ming xiao zi	1
+下载者	xia zai zhe	1
+上兴	shang xing	1
+黑客工具	hei ke gong ju	1
+雕牌	diao pai	1
+小天	xiao tian	1
+鬼仔	gui zi	1
+汤姆	tang mu	1
+小榕	xiao rong	1
+万涛	wan tao	1
+李俊	li jun	1
+葛军	ge jun	1
+猪猪	zhu zhu	1
+朽木	xiu mu	1
+怪狗	guai gou	1
+龙哥	long ge	1
+大米	da mi	1
+海阳	hai yang	1
+袁哥	yuan ge	1
+冰河	bing he	1
+中国鹰派	zhong guo ying pai	1
+陈三少	chen san shao	1
+教主	jiao zhu	1
+孤独剑客	gu du jian ke	1
+冰叶	bing ye	1
+中华特攻	zhong hua te gong	1
+冰雪封情	bing xue feng qing	1
+汤普森	tang pu sen	1
+里奇	li qi	1
+斯托曼	si tuo man	1
+埃里克	ai li ke	1
+托瓦兹	tuo wa zi	1
+凯文米特尼克	kai wen mi te ni ke	1
+加里麦金农	jia li mai jin nong	1
+黑客人物	hei ke ren wu	1
+邪恶八进制	xie e ba jin zhi	1
+二进制论坛	er jin zhi lun tan	1
+十六进制论坛	shi liu jin zhi lun tan	1
+黑鹰红客基地	hei ying hong ke ji di	1
+华夏黑客同盟	hua xia hei ke tong meng	1
+爱国者黑客	ai guo zhe hei ke	1
+新世纪网安	xin shi ji wang an	1
+黑客动画吧	hei ke dong hua ba	1
+岁月联盟	sui yue lian meng	1
+黑客手册	hei ke shou ce	1
+赢政天下	ying zheng tian xia	1
+霏凡软件	fei fan ruan jian	1
+看雪学院	kan xue xue yuan	1
+第八军团	di ba jun tuan	1
+黑客防线	hei ke fang xian	1
+木马帝国	mu ma di guo	1
+黑软基地	hei ruan ji di	1
+西部网安	xi bu wang an	1
+黑色旋风	hei se xuan feng	1
+黑客基地	hei ke ji di	1
+安全焦点	an quan jiao dian	1
+影子鹰	ying zi ying	1
+火狐	huo hu	1
+绿盟	lv meng	1
+安焦	an jiao	1
+红狼	hong lang	1
+暗组	an zu	1
+邪八	xie ba	1
+黑客网站	hei ke wang zhan	1
+特洛伊木马	te luo yi mu ma	1
+系统补丁	xi tong bu ding	1
+监测网络	jian ce wang luo	1
+防护体系	fang hu ti xi	1
+系统保护	xi tong bao hu	1
+主动防御	zhu dong fang yu	1
+在线杀毒	zai xian sha du	1
+启发杀毒	qi fa sha du	1
+系统防御	xi tong fang yu	1
+网页木马	wang ye mu ma	1
+流氓软件	liu mang ruan jian	1
+安全资讯	an quan zi xun	1
+卡饭论坛	ka fan lun tan	1
+杀毒引擎	sha du yin qing	1
+内存整理	nei cun zheng li	1
+恶意软件	e yi ruan jian	1
+破解版	po jie ban	1
+激活码	ji huo ma	1
+序列号	xu lie hao	1
+占用量	zhan yong liang	1
+威胁性	wei xie xing	1
+反病毒	fan bing du	1
+网络安全	wang luo an quan	1
+恶意软件清理助手	e yi ruan jian qing li zhu shou	1
+任务管理器	ren wu guan li qi	1
+木马清道夫	mu ma qing dao fu	1
+安全卫士	an quan wei shi	1
+超级巡警	chao ji xun jing	1
+木马防线	mu ma fang xian	1
+木马克星	mu ma ke xing	1
+冰刃	bing ren	1
+查杀木马工具	cha sha mu ma gong ju	1
+费尔个人防火墙	fei er ge ren fang huo qiang	1
+雅虎天盾	ya hu tian dun	1
+冰盾	bing dun	1
+风云	feng yun	1
+天网	tian wang	1
+防火墙	fang huo qiang	1
+卡巴斯基	ka ba si ji	1
+微点主动防御	wei dian zhu dong fang yu	1
+瑞星杀毒软件	rui xing sha du ruan jian	1
+费尔托斯特	fei er tuo si te	1
+金山毒霸	jin shan du ba	1
+趋势科技	qu shi ke ji	1
+驱逐舰	qu zhu jian	1
+麦咖啡	mai ka fei	1
+小红伞	xiao hong san	1
+大蜘蛛	da zhi zhu	1
+微点	wei dian	1
+费尔	fei er	1
+卡巴	ka ba	1
+诺顿	nuo dun	1
+金山	jin shan	1
+江民	jiang min	1
+瑞星	rui xing	1
+杀毒软件	sha du ruan jian	1

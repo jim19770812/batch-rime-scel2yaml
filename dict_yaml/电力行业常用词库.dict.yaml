@@ -1,0 +1,327 @@
+---
+name: 电力行业常用词库
+version: "20220504"
+sort: by_weight
+use_preset_vocabulary: true
+...
+最高电压	zui gao dian ya	1
+最高电流	zui gao dian liu	1
+最低电压	zui di dian ya	1
+最低电流	zui di dian liu	1
+组合开关	zu he kai guan	1
+阻尼	zu ni	1
+阻抗	zu kang	1
+自学习功能	zi xue xi gong neng	1
+自适应系统	zi shi ying xi tong	1
+自适应控制方法	zi shi ying kong zhi fang fa	1
+自动开关	zi dong kai guan	1
+子系统	zi xi tong	1
+装机容量	zhuang ji rong liang	1
+转子电枢	zhuan zi dian shu	1
+转子	zhuan zi	1
+转换开关	zhuan huan kai guan	1
+柱上开关	zhu shang kai guan	1
+柱上变压器	zhu shang bian ya qi	1
+主令开关	zhu ling kai guan	1
+轴瓦	zhou wa	1
+轴承	zhou cheng	1
+中压	zhong ya	1
+中心环	zhong xin huan	1
+中线电流	zhong xian dian liu	1
+中间继电器	zhong jian ji dian qi	1
+中国电力	zhong guo dian li	1
+直流电抗器	zhi liu dian kang qi	1
+正序阻抗	zheng xu zu kang	1
+兆瓦	zhao wa	1
+暂态行波	zan tai hang bo	1
+暂态稳定	zan tai wen ding	1
+暂态分量	zan tai fen liang	1
+运行转速	yun xing zhuan su	1
+运行	yun xing	1
+裕度	yu du	1
+预付费电度表	yu fu fei dian du biao	1
+有功损耗	you gong sun hao	1
+有功功率	you gong gong lv	1
+有功负载	you gong fu zai	1
+有功	you gong	1
+用电需求管理	yong dian xu qiu guan li	1
+荧光灯	ying guang deng	1
+应急灯	ying ji deng	1
+遥信	yao xin	1
+遥测	yao ce	1
+摇摆	yao bai	1
+样本空间	yang ben kong jian	1
+样本集合	yang ben ji he	1
+研究方向	yan jiu fang xiang	1
+延迟时间	yan chi shi jian	1
+延迟变换	yan chi bian huan	1
+学报	xue bao	1
+修改的	xiu gai de	1
+行程开关	xing cheng kai guan	1
+行波信号	hang bo xin hao	1
+行波继电器	hang bo ji dian qi	1
+行波保护	hang bo bao hu	1
+行波	hang bo	1
+信号灯	xin hao deng	1
+谐波电流	xie bo dian liu	1
+斜率	xie lv	1
+小型断路器	xiao xing duan lu qi	1
+小水电	xiao shui dian	1
+小波变换	xiao bo bian huan	1
+箱式变压器	xiang shi bian ya qi	1
+相减运算	xiang jian yun suan	1
+线路补偿器	xian lu bu chang qi	1
+线夹	xian jia	1
+下限	xia xian	1
+下降特性	xia jiang te xing	1
+下降率	xia jiang lv	1
+西屋	xi wu	1
+西门子	xi men zi	1
+误动作	wu dong zuo	1
+无刷励磁机	wu shua li ci ji	1
+无功损耗	wu gong sun hao	1
+无功功率	wu gong gong lv	1
+无功负载	wu gong fu zai	1
+无功电流	wu gong dian liu	1
+无功补偿	wu gong bu chang	1
+无功	wu gong	1
+稳定	wen ding	1
+温控仪	wen kong yi	1
+微动开关	wei dong kai guan	1
+投运	tou yun	1
+铜损	tong sun	1
+铜排	tong pai	1
+铜电偶	tong dian ou	1
+同步	tong bu	1
+铁芯	tie xin	1
+铁心	tie xin	1
+铁损	tie sun	1
+算法	suan fa	1
+四分线损	si fen xian sun	1
+水氢氢	shui qing qing	1
+水冷	shui leng	1
+双水内冷	shuang shui nei leng	1
+双绕组变压器	shuang rao zu bian ya qi	1
+双回同杆并架	shuang hui tong gan bing jia	1
+双电源	shuang dian yuan	1
+输电线路故障	shu dian xian lu gu zhang	1
+输电线	shu dian xian	1
+输电系统	shu dian xi tong	1
+输电距离	shu dian ju li	1
+受端	shou duan	1
+时控开关	shi kong kai guan	1
+时间继电器	shi jian ji dian qi	1
+失真	shi zhen	1
+失去同步	shi qu tong bu	1
+声控开关	sheng kong kai guan	1
+升压变压器	sheng ya bian ya qi	1
+神经元	shen jing yuan	1
+神经网络	shen jing wang luo	1
+上限	shang xian	1
+三相故障	san xiang gu zhang	1
+三相电压	san xiang dian ya	1
+三相电度表	san xiang dian du biao	1
+三绕组变压器	san rao zu bian ya qi	1
+三菱	san ling	1
+三角形隶属度函数	san jiao xing li shu du han shu	1
+熔断器	rong duan qi	1
+容量	rong liang	1
+热控	re kong	1
+热继电器	re ji dian qi	1
+热电偶	re dian ou	1
+全面地	quan mian di	1
+区内故障	qu nei gu zhang	1
+求和器	qiu he qi	1
+氢侧	qing ce	1
+切机	qie ji	1
+强行励磁	qiang xing li ci	1
+千瓦	qian wa	1
+千伏安	qian fu an	1
+千阀	qian fa	1
+汽端	qi duan	1
+起动失败停机	qi dong shi bai ting ji	1
+启动器	qi dong qi	1
+其它故障显示及输入	qi ta gu zhang xian shi ji shu ru	1
+频率表	pin lv biao	1
+频率变阻器	pin lv bian zu qi	1
+频率	pin lv	1
+偏移量	pian yi liang	1
+配电箱	pei dian xiang	1
+配电系统	pei dian xi tong	1
+能量输送	neng liang shu song	1
+耐张段	nai zhang duan	1
+耐张	nai zhang	1
+母线	mu xian	1
+模糊推理矩阵	mo hu tui li ju zhen	1
+模糊推理	mo hu tui li	1
+模糊神经网络	mo hu shen jing wang luo	1
+模糊控制	mo hu kong zhi	1
+模糊规则	mo hu gui ze	1
+门槛值	men kan zhi	1
+每相电流	mei xiang dian liu	1
+落点	luo dian	1
+铝排	lv pai	1
+漏电断路器	lou dian duan lu qi	1
+零序阻抗	ling xu zu kang	1
+灵敏性	ling min xing	1
+隶属函数	li shu han shu	1
+励端	li duan	1
+励磁器	li ci qi	1
+励磁机端	li ci ji duan	1
+励磁机	li ci ji	1
+励磁电流转子电流	li ci dian liu zhuan zi dian liu	1
+励磁	li ci	1
+冷却水温度表	leng que shui wen du biao	1
+浪涌保护器	lang yong bao hu qi	1
+拉线	la xian	1
+框图	kuang tu	1
+库容量	ku rong liang	1
+控制按钮	kong zhi an niu	1
+空载损耗	kong zai sun hao	1
+空载电流	kong zai dian liu	1
+空心导线	kong xin dao xian	1
+空冷	kong leng	1
+空导	kong dao	1
+空侧	kong ce	1
+可倾瓦	ke qing wa	1
+可靠动作	ke kao dong zuo	1
+抗干扰能力	kang gan rao neng li	1
+开关站	kai guan zhan	1
+静态	jing tai	1
+接线端子板	jie xian duan zi ban	1
+接线端子	jie xian duan zi	1
+接触器	jie chu qi	1
+交流励磁机	jiao liu li ci ji	1
+交流	jiao liu	1
+减法运算	jian fa yun suan	1
+继电器	ji dian qi	1
+继电保护	ji dian bao hu	1
+极限切除时间	ji xian qie chu shi jian	1
+机组运行正常	ji zu yun xing zheng chang	1
+机组运行小时表	ji zu yun xing xiao shi biao	1
+机组	ji zu	1
+机油油压表	ji you you ya biao	1
+机端电压控制	ji duan dian ya kong zhi	1
+机端	ji duan	1
+护环	hu huan	1
+互感器	hu gan qi	1
+弧焊机	hu han ji	1
+哈夫抱箍	ha fu bao gu	1
+过渡夹	guo du jia	1
+故障切除时间	gu zhang qie chu shi jian	1
+故障点	gu zhang dian	1
+故障	gu zhang	1
+固定串联电容补偿	gu ding chuan lian dian rong bu chang	1
+功率因数	gong lv yin shu	1
+功率	gong lv	1
+功角稳定	gong jiao wen ding	1
+功角	gong jiao	1
+工频	gong pin	1
+给定的	gei ding de	1
+隔离器	ge li qi	1
+隔离开关	ge li kai guan	1
+高压侧	gao ya ce	1
+高压	gao ya	1
+高水温故障停机	gao shui wen gu zhang ting ji	1
+高抗	gao kang	1
+高精度	gao jing du	1
+高顶值	gao ding zhi	1
+副教授	fu jiao shou	1
+附加系统	fu jia xi tong	1
+附加网络	fu jia wang luo	1
+负载电流百分比显示	fu zai dian liu bai fen bi xian shi	1
+负序阻抗	fu xu zu kang	1
+负荷状态	fu he zhuang tai	1
+辅助触点	fu zhu chu dian	1
+分接头	fen jie tou	1
+非线性系统	fei xian xing xi tong	1
+仿真数据	fang zhen shu ju	1
+仿真分析	fang zhen fen xi	1
+仿真	fang zhen	1
+反传算法	fan chuan suan fa	1
+发电机端	fa dian ji duan	1
+发电机	fa dian ji	1
+发电厂	fa dian chang	1
+额定	e ding	1
+对讲门铃	dui jiang men ling	1
+断路器	duan lu qi	1
+短路故障	duan lu gu zhang	1
+端盖式轴承	duan gai shi zhou cheng	1
+端盖	duan gai	1
+动作速度	dong zuo su du	1
+动态	dong tai	1
+动力工程系	dong li gong cheng xi	1
+定子	ding zi	1
+跌落式熔断器	die luo shi rong duan qi	1
+调节仪	tiao jie yi	1
+调节	tiao jie	1
+电阻器	dian zu qi	1
+电阻	dian zu	1
+电压源	dian ya yuan	1
+电压稳定	dian ya wen ding	1
+电压互感器	dian ya hu gan qi	1
+电压等级	dian ya deng ji	1
+电压表	dian ya biao	1
+电压	dian ya	1
+电位	dian wei	1
+电网	dian wang	1
+电刷	dian shua	1
+电容器	dian rong qi	1
+电容	dian rong	1
+电瓶电压表	dian ping dian ya biao	1
+电能质量	dian neng zhi liang	1
+电能量	dian neng liang	1
+电纳	dian na	1
+电流表	dian liu biao	1
+电流	dian liu	1
+电铃	dian ling	1
+电力系统自动化	dian li xi tong zi dong hua	1
+电力系统	dian li xi tong	1
+电老虎	dian lao hu	1
+电抗器	dian kang qi	1
+电抗	dian kang	1
+电感	dian gan	1
+电杆	dian gan	1
+电度表	dian du biao	1
+电动机保护器	dian dong ji bao hu qi	1
+电动机	dian dong ji	1
+电导	dian dao	1
+电厂	dian chang	1
+低油压故障停机	di you ya gu zhang ting ji	1
+低压	di ya	1
+等值波阻抗	deng zhi bo zu kang	1
+等效于	deng xiao yu	1
+导纳	dao na	1
+刀闸隔离开关	dao zha ge li kai guan	1
+刀开关	dao kai guan	1
+档位	dang wei	1
+单相电压	dan xiang dian ya	1
+单相电度表	dan xiang dian du biao	1
+单机无穷大系统	dan ji wu qiong da xi tong	1
+大容量发电机组	da rong liang fa dian ji zu	1
+垂直距离	chui zhi ju li	1
+传递函数	chuan di han shu	1
+初探	chu tan	1
+超速故障停机	chao su gu zhang ting ji	1
+超高压输电线	chao gao ya shu dian xian	1
+插座	cha zuo	1
+测量信号	ce liang xin hao	1
+参数值	can shu zhi	1
+参考值	can kao zhi	1
+采样周期	cai yang zhou qi	1
+采样频率	cai yang pin lv	1
+不锈钢	bu xiu gang	1
+补偿度	bu chang du	1
+波形	bo xing	1
+波纹板	bo wen ban	1
+并列的	bing lie de	1
+并联电容器	bing lian dian rong qi	1
+标准的机组数据显示	biao zhun de ji zu shu ju xian shi	1
+变压器	bian ya qi	1
+变电站	bian dian zhan	1
+变比	bian bi	1
+避雷器	bi lei qi	1
+抱箍	bao gu	1
+保护特性	bao hu te xing	1
+保护断路器	bao hu duan lu qi	1
+按钮	an niu	1

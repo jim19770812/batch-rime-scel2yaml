@@ -1,0 +1,707 @@
+---
+name: 汽车行业专用词汇
+version: "20220504"
+sort: by_weight
+use_preset_vocabulary: true
+...
+导航系统	dao hang xi tong	1
+防眩目	fang xuan mu	1
+无钥匙启动	wu yao shi qi dong	1
+分动箱	fen dong xiang	1
+尾翼	wei yi	1
+扰流板	rao liu ban	1
+倒车灯	dao che deng	1
+空气悬挂	kong qi xuan gua	1
+玻璃加热	bo li jia re	1
+收音机天线	shou yin ji tian xian	1
+收音机	shou yin ji	1
+倒车雷达	dao che lei da	1
+球笼油	qiu long you	1
+牵引钩	qian yin gou	1
+行李架	xing li jia	1
+防盗螺丝	fang dao luo si	1
+千斤顶	qian jin ding	1
+大灯线束	da deng xian shu	1
+喷油嘴线束	pen you zui xian shu	1
+发动机线束	fa dong ji xian shu	1
+电动风扇	dian dong feng shan	1
+桌椅控制单元	zhuo yi kong zhi dan yuan	1
+座椅调节开关	zuo yi tiao jie kai guan	1
+桌椅调节电机	zhuo yi tiao jie dian ji	1
+天窗开关	tian chuang kai guan	1
+天窗	tian chuang	1
+游丝盘	you si pan	1
+复位环	fu wei huan	1
+玻璃水	bo li shui	1
+喷水嘴	pen shui zui	1
+雨刷喷水管	yu shua pen shui guan	1
+雨刷水壶	yu shua shui hu	1
+雨刷喷水电机	yu shua pen shui dian ji	1
+转向灯开关	zhuan xiang deng kai guan	1
+雨刷开关	yu shua kai guan	1
+雨刷电机	yu shua dian ji	1
+雨刷臂	yu shua bi	1
+雨刷片	yu shua pian	1
+转向灯灯泡	zhuan xiang deng deng pao	1
+转向灯	zhuan xiang deng	1
+阅读灯	yue du deng	1
+高位刹车灯	gao wei sha che deng	1
+牌照灯	pai zhao deng	1
+刹车灯泡	sha che deng pao	1
+刹车灯	sha che deng	1
+尾灯	wei deng	1
+灯光调节开关	deng guang tiao jie kai guan	1
+座椅加热	zuo yi jia re	1
+应急灯开关	ying ji deng kai guan	1
+大灯组合开关	da deng zu he kai guan	1
+白炽灯	bai chi deng	1
+雾灯灯泡	wu deng deng pao	1
+远光灯泡	yuan guang deng pao	1
+近光灯泡	jin guang deng pao	1
+大灯调节电机	da deng tiao jie dian ji	1
+防空灯	fang kong deng	1
+近光灯	jin guang deng	1
+远光灯	yuan guang deng	1
+小灯	xiao deng	1
+行车灯	xing che deng	1
+雾灯	wu deng	1
+大灯	da deng	1
+卤素灯	lu su deng	1
+防盗控制单元	fang dao kong zhi dan yuan	1
+保险丝座	bao xian si zuo	1
+保险丝	bao xian si	1
+继电器架	ji dian qi jia	1
+继电器	ji dian qi	1
+速度传感器	su du chuan gan qi	1
+多功能开关	duo gong neng kai guan	1
+车速传感器	che su chuan gan qi	1
+组合仪表	zu he yi biao	1
+电瓶线	dian ping xian	1
+负极	fu ji	1
+正极	zheng ji	1
+电瓶水	dian ping shui	1
+电解液	dian jie ye	1
+电瓶架	dian ping jia	1
+蓄电池	xu dian chi	1
+电瓶	dian ping	1
+浮子	fu zi	1
+汽油液位传感器	qi you ye wei chuan gan qi	1
+甩轮	shuai lun	1
+电磁开关	dian ci kai guan	1
+启动机	qi dong ji	1
+电子真空泵	dian zi zhen kong beng	1
+真空泵	zhen kong beng	1
+高压线圈	gao ya xian quan	1
+氧传感器	yang chuan gan qi	1
+进气温度传感器	jin qi wen du chuan gan qi	1
+进气压力传感器	jin qi ya li chuan gan qi	1
+转速传感器	zhuan su chuan gan qi	1
+爆震传感器	bao zhen chuan gan qi	1
+底盘号	di pan hao	1
+发动机号	fa dong ji hao	1
+读数线圈	du shu xian quan	1
+分火头	fen huo tou	1
+分电机	fen dian ji	1
+点火器	dian huo qi	1
+高压线	gao ya xian	1
+火花塞	huo hua sai	1
+点火线圈	dian huo xian quan	1
+发电机皮带	fa dian ji pi dai	1
+发动机涨紧器	fa dong ji zhang jin qi	1
+发电机调节器	fa dian ji tiao jie qi	1
+发电机涨紧器	fa dian ji zhang jin qi	1
+发电机	fa dian ji	1
+座椅垫	zuo yi dian	1
+座椅靠背	zuo yi kao bei	1
+头枕导销	tou zhen dao xiao	1
+头枕	tou zhen	1
+碰撞传感器	peng zhuang chuan gan qi	1
+气囊线束	qi nang xian shu	1
+气囊控制单元	qi nang kong zhi dan yuan	1
+副气囊	fu qi nang	1
+主气囊	zhu qi nang	1
+气囊	qi nang	1
+后壁饰板	hou bi shi ban	1
+顶棚	ding peng	1
+车顶隔热毡	che ding ge re zhan	1
+组合开关	zu he kai guan	1
+玻璃升降器开关	bo li sheng jiang qi kai guan	1
+车门饰板	che men shi ban	1
+行李箱内衬	xing li xiang nei chen	1
+行李箱毡垫	xing li xiang zhan dian	1
+点烟器	dian yan qi	1
+扶手箱	fu shou xiang	1
+烟灰缸盖	yan hui gang gai	1
+诊断插头	zhen duan cha tou	1
+中间托架	zhong jian tuo jia	1
+副车架	fu che jia	1
+元宝梁	yuan bao liang	1
+油底护板	you di hu ban	1
+车内地毯	che nei di tan	1
+吊钩	diao gou	1
+遮阳卷帘	zhe yang juan lian	1
+后风挡	hou feng dang	1
+警告牌	jing gao pai	1
+遮阳板三点式安全带	zhe yang ban san dian shi an quan dai	1
+倒车镜支架	dao che jing zhi jia	1
+倒车镜片	dao che jing pian	1
+倒车镜总成	dao che jing zong cheng	1
+倒车镜调节开关	dao che jing tiao jie kai guan	1
+倒车镜调节电机	dao che jing tiao jie dian ji	1
+倒车镜壳	dao che jing ke	1
+倒车镜	dao che jing	1
+车内后视镜	che nei hou shi jing	1
+烟灰缸	yan hui gang	1
+水杯架	shui bei jia	1
+仪表台	yi biao tai	1
+仪表盘横梁	yi biao pan heng liang	1
+车门玻璃	che men bo li	1
+玻璃导槽	bo li dao cao	1
+扬声器	yang sheng qi	1
+喇叭支架	la ba zhi jia	1
+低音喇叭	di yin la ba	1
+高音喇叭	gao yin la ba	1
+音响喇叭	yin xiang la ba	1
+升降器电机	sheng jiang qi dian ji	1
+玻璃升降器	bo li sheng jiang qi	1
+门锁控制单元	men suo kong zhi dan yuan	1
+锁块	suo kuai	1
+点火开关	dian huo kai guan	1
+车门拉手	che men la shou	1
+钥匙	yao shi	1
+遥控器	yao kong qi	1
+锁芯	suo xin	1
+全车锁	quan che suo	1
+车门折页	che men zhe ye	1
+车门铰链	che men jiao lian	1
+步进电机	bu jin dian ji	1
+行李箱锁	xing li xiang suo	1
+行李箱盖	xing li xiang gai	1
+铰链护罩	jiao lian hu zhao	1
+释放杆	shi fang gan	1
+发动机盖锁支架	fa dong ji gai suo zhi jia	1
+发动机盖锁拉线	fa dong ji gai suo la xian	1
+发动机盖锁	fa dong ji gai suo	1
+微型开关	wei xing kai guan	1
+行李箱盖锁	xing li xiang gai suo	1
+导向块	dao xiang kuai	1
+压缩空气弹簧支座	ya suo kong qi tan huang zhi zuo	1
+球面插头	qiu mian cha tou	1
+气压弹簧	qi ya tan huang	1
+铰链	jiao lian	1
+胀紧销	zhang jin xiao	1
+翼子板	yi zi ban	1
+车内温度传感器	che nei wen du chuan gan qi	1
+车外温度传感器	che wai wen du chuan gan qi	1
+串联电阻	chuan lian dian zu	1
+空调滤	kong tiao lv	1
+鼓风机	gu feng ji	1
+小水箱	xiao shui xiang	1
+冷暖气调节装置	leng nuan qi tiao jie zhuang zhi	1
+活门拉索	huo men la suo	1
+除霜器	chu shuang qi	1
+空气软管	kong qi ruan guan	1
+杂物箱	za wu xiang	1
+仪表盘	yi biao pan	1
+通风设备饰板	tong feng she bei shi ban	1
+风道	feng dao	1
+热空气喷射器	re kong qi pen she qi	1
+出风口	chu feng kou	1
+密封软绳	mi feng ruan sheng	1
+车顶横梁	che ding heng liang	1
+车顶纵梁	che ding zong liang	1
+车顶	che ding	1
+后壁	hou bi	1
+终端挡板加固件	zhong duan dang ban jia gu jian	1
+端封板	duan feng ban	1
+尾灯支架	wei deng zhi jia	1
+调节电机	tiao jie dian ji	1
+防护薄膜	fang hu bao mo	1
+内侧围板	nei ce wei ban	1
+下梁加固板	xia liang jia gu ban	1
+腹板	fu ban	1
+螺纹板	luo wen ban	1
+流水板	liu shui ban	1
+后杠导向槽	hou gang dao xiang cao	1
+后杠防撞条	hou gang fang zhuang tiao	1
+反光条	fan guang tiao	1
+后保险杠	hou bao xian gang	1
+雾灯网	wu deng wang	1
+通风格栅	tong feng ge shan	1
+前杠导向槽	qian gang dao xiang cao	1
+牌照板	pai zhao ban	1
+吸能杠	xi neng gang	1
+中网标	zhong wang biao	1
+中网	zhong wang	1
+前杠防撞条	qian gang fang zhuang tiao	1
+导流板	dao liu ban	1
+前保险杠	qian bao xian gang	1
+导向槽	dao xiang cao	1
+防撞加强板	fang zhuang jia qiang ban	1
+遮饰框	zhe shi kuang	1
+斜拉杆	xie la gan	1
+横隔壁	heng ge bi	1
+通道隔热板	tong dao ge re ban	1
+轮罩加强板	lun zhao jia qiang ban	1
+调节件支架	tiao jie jian zhi jia	1
+轮罩衬壳	lun zhao chen ke	1
+固定角件	gu ding jiao jian	1
+安全带固定加强底板	an quan dai gu ding jia qiang di ban	1
+备用轮舱	bei yong lun cang	1
+折叠靠背铰链	zhe die kao bei jiao lian	1
+车身尾板	che shen wei ban	1
+通道加强板	tong dao jia qiang ban	1
+连接板	lian jie ban	1
+地板	di ban	1
+座椅导轨	zuo yi dao gui	1
+座椅	zuo yi	1
+座椅横梁	zuo yi heng liang	1
+纵梁加固件	zong liang jia gu jian	1
+膨胀式螺母	peng zhang shi luo mu	1
+放水套管	fang shui tao guan	1
+前纵梁	qian zong liang	1
+刹车灯开关	sha che deng kai guan	1
+离合器开关	li he qi kai guan	1
+缓冲器	huan chong qi	1
+油门拉线	you men la xian	1
+油门踏板	you men ta ban	1
+传压缸	chuan ya gang	1
+离合器拉线	li he qi la xian	1
+离合器分泵	li he qi fen beng	1
+回位弹簧总成	hui wei tan huang zong cheng	1
+弹性放松垫圈	tan xing fang song dian quan	1
+刹车踏板	sha che ta ban	1
+制动踏板	zhi dong ta ban	1
+离合器踏板	li he qi ta ban	1
+脚踏机构支座	jiao ta ji gou zhi zuo	1
+换挡锁止电磁阀	huan dang suo zhi dian ci fa	1
+保险夹	bao xian jia	1
+起重电磁阀	qi zhong dian ci fa	1
+销钉	xiao ding	1
+支撑销	zhi cheng xiao	1
+碗状轴承	wan zhuang zhou cheng	1
+手刹车开关	shou sha che kai guan	1
+拉索支架	la suo zhi jia	1
+弹性安装夹头	tan xing an zhuang jia tou	1
+皮碗	pi wan	1
+换挡操纵机构	huan dang cao zong ji gou	1
+换挡机构	huan dang ji gou	1
+换挡杆防尘套	huan dang gan fang chen tao	1
+换挡手球	huan dang shou qiu	1
+手制动拉杆	shou zhi dong la gan	1
+刹车片	sha che pian	1
+后刹车片	hou sha che pian	1
+前刹车片	qian sha che pian	1
+刹车分泵	sha che fen beng	1
+制动钳修理包	zhi dong qian xiu li bao	1
+制动盘	zhi dong pan	1
+导向销	dao xiang xiao	1
+制动钳	zhi dong qian	1
+制动控制器	zhi dong kong zhi qi	1
+隔音板	ge yin ban	1
+吸音板	xi yin ban	1
+制动助力器	zhi dong zhu li qi	1
+高压管	gao ya guan	1
+低压管	di ya guan	1
+制动软管	zhi dong ruan guan	1
+制动硬管	zhi dong ying guan	1
+制动硬管夹	zhi dong ying guan jia	1
+制动软管夹	zhi dong ruan guan jia	1
+刹车油管固定架	sha che you guan gu ding jia	1
+刹车油位传感器	sha che you wei chuan gan qi	1
+刹车油	sha che you	1
+制动液	zhi dong ye	1
+制动油杯	zhi dong you bei	1
+密封环	mi feng huan	1
+内圆滑棱螺栓	nei yuan hua leng luo shuan	1
+刹车总泵	sha che zong beng	1
+串联式制动总泵	chuan lian shi zhi dong zong beng	1
+弹性放松垫	tan xing fang song dian	1
+制动拉索	zhi dong la suo	1
+手刹车拉线	shou sha che la xian	1
+车轮饰盖	che lun shi gai	1
+钢盆	gang pen	1
+动平衡块	dong ping heng kuai	1
+铅块	qian kuai	1
+轮毂盖	lun gu gai	1
+轮胎螺丝	lun tai luo si	1
+轮胎	lun tai	1
+橡胶阀门	xiang jiao fa men	1
+车轮	che lun	1
+后桥螺丝	hou qiao luo si	1
+后减震器	hou jian zhen qi	1
+弹簧托盘	tan huang tuo pan	1
+后减震器胶墩	hou jian zhen qi jiao dun	1
+减震器缓冲块	jian zhen qi huan chong kuai	1
+扣紧带	kou jin dai	1
+防石击护板	fang shi ji hu ban	1
+后桥本体	hou qiao ben ti	1
+转向机防尘套	zhuan xiang ji fang chen tao	1
+转向助力油冷却管	zhuan xiang zhu li you leng que guan	1
+进气软管	jin qi ruan guan	1
+回流管	hui liu guan	1
+空心螺栓	kong xin luo shuan	1
+转向助力泵油杯	zhuan xiang zhu li beng you bei	1
+横拉杆球头	heng la gan qiu tou	1
+转向横拉杆球头	zhuan xiang heng la gan qiu tou	1
+转向横拉杆	zhuan xiang heng la gan	1
+转向机	zhuan xiang ji	1
+转向柱	zhuan xiang zhu	1
+喇叭开关	la ba kai guan	1
+信号喇叭	xin hao la ba	1
+方向盘	fang xiang pan	1
+磁性放油螺栓	ci xing fang you luo shuan	1
+短轴法兰	duan zhou fa lan	1
+小八齿	xiao ba chi	1
+大牙盘	da ya pan	1
+里程表	li cheng biao	1
+里程表传感器	li cheng biao chuan gan qi	1
+差动锥齿轮轴	cha dong zhui chi lun zhou	1
+差速器壳体	cha su qi qiao ti	1
+差速器	cha su qi	1
+压力轴承	ya li zhou cheng	1
+平衡臂胶套	ping heng bi jiao tao	1
+减震器防尘套	jian zhen qi fang chen tao	1
+半轴	ban zhou	1
+外球笼防尘套	wai qiu long fang chen tao	1
+內球笼防尘套	nei qiu long fang chen tao	1
+外球笼	wai qiu long	1
+內球笼	nei qiu long	1
+万向轴	wan xiang zhou	1
+等速万向节	deng su wan xiang jie	1
+牛腿	niu tui	1
+减震器弹簧	jian zhen qi tan huang	1
+四连杆机构	si lian gan ji gou	1
+制动盘盖板	zhi dong pan gai ban	1
+油压减震器	you ya jian zhen qi	1
+气压减震器	qi ya jian zhen qi	1
+减震器	jian zhen qi	1
+联动杆	lian dong gan	1
+平衡臂	ping heng bi	1
+连接杆	lian jie gan	1
+稳定杆	wen ding gan	1
+导向操纵器	dao xiang cao zong qi	1
+车轮轮毂	che lun lun gu	1
+车轮轴承套	che lun zhou cheng tao	1
+托承转向操纵器	tuo cheng zhuan xiang cao zong qi	1
+变速箱支撑	bian su xiang zhi cheng	1
+印刷电路薄膜	yin shua dian lu bao mo	1
+变速箱油温传感器	bian su xiang you wen chuan gan qi	1
+排线	pai xian	1
+间隔管	jian ge guan	1
+驱动轮	qu dong lun	1
+耦合器	ou he qi	1
+变矩器	bian ju qi	1
+转矩变换器	zhuan ju bian huan qi	1
+加油口漏斗	jia you kou lou dou	1
+传动罩	chuan dong zhao	1
+内离合器	nei li he qi	1
+外离合器	wai li he qi	1
+调整垫片	tiao zheng dian pian	1
+推力轴承	tui li zhou cheng	1
+行星齿轮托架	xing xing chi lun tuo jia	1
+换挡电磁阀	huan dang dian ci fa	1
+从动轮	cong dong lun	1
+行星架	xing xing jia	1
+行星轮	xing xing lun	1
+太阳轮	tai yang lun	1
+变速箱油滤	bian su xiang you lv	1
+阀板	fa ban	1
+滑阀箱	hua fa xiang	1
+变速箱油泵	bian su xiang you beng	1
+停车锁止齿轮	ting che suo zhi chi lun	1
+拉力弹簧	la li tan huang	1
+操作杆	cao zuo gan	1
+止退卡簧	zhi tui ka huang	1
+轴承衬套	zhou cheng chen tao	1
+放油螺丝	fang you luo si	1
+油底壳密封垫	you di ke mi feng dian	1
+磁铁	ci tie	1
+滤油器	lv you qi	1
+发动机油底壳	fa dong ji you di ke	1
+变速箱油底壳	bian su xiang you di ke	1
+自动变速箱油	zi dong bian su xiang you	1
+换挡叉轴盖	huan dang cha zhou gai	1
+限位螺丝	xian wei luo si	1
+换挡拨叉	huan dang bo cha	1
+涨紧套筒	zhang jin tao tong	1
+换挡拉杆	huan dang la gan	1
+球面套管	qiu mian tao guan	1
+换挡杆	huan dang gan	1
+倒档轴	dao dang zhou	1
+换挡轴	huan dang zhou	1
+一档齿轮	yi dang chi lun	1
+同步齿轮	tong bu chi lun	1
+压盘	ya pan	1
+倒档游动齿轮	dao dang you dong chi lun	1
+圆锥滚子轴承	yuan zhui gun zi zhou cheng	1
+输出轴	shu chu zhou	1
+输入轴	shu ru zhou	1
+止推垫片	zhi tui dian pian	1
+弹性挡圈	tan xing dang quan	1
+换挡滑套	huan dang hua tao	1
+同步器	tong bu qi	1
+同步环	tong bu huan	1
+游动齿轮	you dong chi lun	1
+滚针笼	gun zhen long	1
+向心滚珠轴承	xiang xin gun zhu zhou cheng	1
+滚针套	gun zhen tao	1
+驱动轴	qu dong zhou	1
+齿轮油	chi lun you	1
+阻尼配重	zu ni pei zhong	1
+滚柱型套筒	gun zhu xing tao tong	1
+倒档开关	dao dang kai guan	1
+集油盘	ji you pan	1
+变速箱壳体	bian su xiang qiao ti	1
+无级变速器	wu ji bian su qi	1
+自动变速箱	zi dong bian su xiang	1
+机械变速箱	ji xie bian su xiang	1
+变速箱	bian su xiang	1
+安全开关	an quan kai guan	1
+空调压力开关	kong tiao ya li kai guan	1
+蒸发箱	zheng fa xiang	1
+冷凝器	leng ning qi	1
+加油阀	jia you fa	1
+消音缓冲橡胶	xiao yin huan chong xiang jiao	1
+干燥罐	gan zao guan	1
+双孔穿线套	shuang kong chuan xian tao	1
+扼流阀	e liu fa	1
+空调软管	kong tiao ruan guan	1
+空调管	kong tiao guan	1
+干燥器支架	gan zao qi zhi jia	1
+干燥器	gan zao qi	1
+压缩机机油	ya suo ji ji you	1
+冷油	leng you	1
+空调皮带涨紧轮	kong tiao pi dai zhang jin lun	1
+泵头	beng tou	1
+空调皮带	kong tiao pi dai	1
+定心套筒	ding xin tao tong	1
+压缩机固定架	ya suo ji gu ding jia	1
+楔表复合皮带	xie biao fu he pi dai	1
+电磁离合器	dian ci li he qi	1
+压缩机	ya suo ji	1
+空调压缩机	kong tiao ya suo ji	1
+中间消音器	zhong jian xiao yin qi	1
+后消音器	hou xiao yin qi	1
+前消音器	qian xiao yin qi	1
+排气管固定架	pai qi guan gu ding jia	1
+双管夹箍	shuang guan jia gu	1
+消音器	xiao yin qi	1
+三元催化器	san yuan cui hua qi	1
+热风护板	re feng hu ban	1
+盖板	gai ban	1
+耐热螺丝密封胶	nai re luo si mi feng jiao	1
+双头螺丝	shuang tou luo si	1
+排气管螺丝	pai qi guan luo si	1
+排气管隔热板	pai qi guan ge re ban	1
+排气管垫	pai qi guan dian	1
+排气管	pai qi guan	1
+活性炭罐电磁阀	huo xing tan guan dian ci fa	1
+电缆支架	dian lan zhi jia	1
+活性炭罐	huo xing tan guan	1
+燃油管固定架	ran you guan gu ding jia	1
+燃油管护板	ran you guan hu ban	1
+燃油滤	ran you lv	1
+汽油滤	qi you lv	1
+燃油滤清器	ran you lv qing qi	1
+汽油泵密封圈	qi you beng mi feng quan	1
+箍带支架	gu dai zhi jia	1
+缓冲挡块	huan chong dang kuai	1
+箍带	gu dai	1
+通风阀	tong feng fa	1
+接地线	jie di xian	1
+卡套式螺母	ka tao shi luo mu	1
+油箱盖	you xiang gai	1
+燃油泵	ran you beng	1
+汽油泵	qi you beng	1
+汽油箱	qi you xiang	1
+燃油箱	ran you xiang	1
+发动机支架	fa dong ji zhi jia	1
+机爪胶墩	ji zhao jiao dun	1
+前止点胶墩	qian zhi dian jiao dun	1
+前止点	qian zhi dian	1
+挡块	dang kuai	1
+碟型垫圈	die xing dian quan	1
+止动板	zhi dong ban	1
+金属屏蔽罩	jin shu ping bi zhao	1
+发动机托架	fa dong ji tuo jia	1
+托架	tuo jia	1
+液压轴承	ye ya zhou cheng	1
+转向助力泵皮带轮	zhuan xiang zhu li beng pi dai lun	1
+转向助力泵皮带	zhuan xiang zhu li beng pi dai	1
+转向助力泵	zhuan xiang zhu li beng	1
+助力泵	zhu li beng	1
+硅油风扇轴承	gui you feng shan zhou cheng	1
+紧凑型支架	jin cou xing zhi jia	1
+楔形复合式皮带轮	xie xing fu he shi pi dai lun	1
+叶轮泵	ye lun beng	1
+花键润滑脂	hua jian run hua zhi	1
+导向套筒	dao xiang tao tong	1
+离合器摩擦片	li he qi mo ca pian	1
+分离轴承	fen li zhou cheng	1
+离合器压盘	li he qi ya pan	1
+离合器片	li he qi pian	1
+离合器	li he qi	1
+空气滤清器总成	kong qi lv qing qi zong cheng	1
+吸油管	xi you guan	1
+吸气管	xi qi guan	1
+填塞	tian se	1
+空气流量计	kong qi liu liang ji	1
+吸气软管	xi qi ruan guan	1
+护套	hu tao	1
+空气滤	kong qi lv	1
+空气滤清器	kong qi lv qing qi	1
+真空罐真空管	zhen kong guan zhen kong guan	1
+回油管	hui you guan	1
+进油管	jin you guan	1
+燃油导轨	ran you dao gui	1
+燃油分配器	ran you fen pei qi	1
+喷油嘴	pen you zui	1
+夹持固定器	jia chi gu ding qi	1
+压力调节器	ya li tiao jie qi	1
+燃油管路	ran you guan lu	1
+节气门垫	jie qi men dian	1
+进气道密封垫	jin qi dao mi feng dian	1
+阻抗支座	zu kang zhi zuo	1
+通风罩盖	tong feng zhao gai	1
+接合管	jie he guan	1
+支持环	zhi chi huan	1
+渐缩软管	jian suo ruan guan	1
+电线夹带	dian xian jia dai	1
+带喷嘴的油泵	dai pen zui de you beng	1
+连接软管	lian jie ruan guan	1
+角型软管	jiao xing ruan guan	1
+单向阀	dan xiang fa	1
+橡胶金属支座	xiang jiao jin shu zhi zuo	1
+温度传感器	wen du chuan gan qi	1
+驱动单元	qu dong dan yuan	1
+电磁换向阀	dian ci huan xiang fa	1
+节气门控制单元	jie qi men kong zhi dan yuan	1
+进气道转换阀	jin qi dao zhuan huan fa	1
+进气道	jin qi dao	1
+旋转分流阀	xuan zhuan fen liu fa	1
+切换吸入管	qie huan xi ru guan	1
+水箱框架胶条	shui xiang kuang jia jiao tiao	1
+导风装置	dao feng zhuang zhi	1
+导风板	dao feng ban	1
+水箱框架	shui xiang kuang jia	1
+风扇皮带轮	feng shan pi dai lun	1
+硅油粘性离合器	gui you nian xing li he qi	1
+风扇	feng shan	1
+冷却液	leng que ye	1
+防冻液	fang dong ye	1
+冷却剂添加剂	leng que ji tian jia ji	1
+插入螺母	cha ru luo mu	1
+自攻螺钉	zi gong luo ding	1
+储液罐	chu ye guan	1
+橡胶支座	xiang jiao zhi zuo	1
+固定销	gu ding xiao	1
+散热器	san re qi	1
+水温传感器	shui wen chuan gan qi	1
+水箱	shui xiang	1
+五通	wu tong	1
+膨胀水箱	peng zhang shui xiang	1
+热交换器	re jiao huan qi	1
+温控开关	wen kong kai guan	1
+热敏开关	re min kai guan	1
+补偿容器	bu chang rong qi	1
+节气阀	jie qi fa	1
+油冷却器	you leng que qi	1
+水管	shui guan	1
+封盖	feng gai	1
+水软管	shui ruan guan	1
+节温器盖	jie wen qi gai	1
+节温器	jie wen qi	1
+水泵	shui beng	1
+机油压力传感器	ji you ya li chuan gan qi	1
+机油冷却器	ji you leng que qi	1
+压力弹簧	ya li tan huang	1
+机油滤清器支架	ji you lv qing qi zhi jia	1
+机油滤清器	ji you lv qing qi	1
+机油泵链条涨紧器	ji you beng lian tiao zhang jin qi	1
+机油吸盘	ji you xi pan	1
+机油集滤器	ji you ji lv qi	1
+机油泵链轮	ji you beng lian lun	1
+机油泵链条	ji you beng lian tiao	1
+机油泵	ji you beng	1
+机油尺	ji you chi	1
+齿形皮带下护盖	chi xing pi dai xia hu gai	1
+导向轮	dao xiang lun	1
+导向辊	dao xiang gun	1
+正时皮带涨紧轮	zheng shi pi dai zhang jin lun	1
+正时皮带涨紧器	zheng shi pi dai zhang jin qi	1
+皮带涨紧缓冲器	pi dai zhang jin huan chong qi	1
+涨紧轮	zhang jin lun	1
+弹簧垫圈	tan huang dian juan	1
+齿形皮带	chi xing pi dai	1
+弹簧夹子	tan huang jia zi	1
+齿形皮带护罩	chi xing pi dai hu zhao	1
+排气门	pai qi men	1
+进气门	jin qi men	1
+气门油封	qi men you feng	1
+气门弹簧座	qi men tan huang zuo	1
+气门弹簧	qi men tan huang	1
+对开式锥形气门锁片	dui kai shi zhui xing qi men suo pian	1
+气门锁片	qi men suo pian	1
+液压挺杆	ye ya ting gan	1
+凸轮轴瓦座	tu lun zhou wa zuo	1
+配气相位调节器垫	pei qi xiang wei tiao jie qi dian	1
+配气相位调节器	pei qi xiang wei tiao jie qi	1
+链条调节器	lian tiao tiao jie qi	1
+轴密封	zhou mi feng	1
+排气凸轮轴	pai qi tu lun zhou	1
+进气凸轮轴	jin qi tu lun zhou	1
+凸轮轴皮带轮	tu lun zhou pi dai lun	1
+凸轮轴	tu lun zhou	1
+活塞销卡簧	huo sai xiao ka huang	1
+活塞销	huo sai xiao	1
+活塞	huo sai	1
+组合环	zu he huan	1
+油环	you huan	1
+气环	qi huan	1
+活塞环	huo sai huan	1
+止推瓦	zhi tui wa	1
+主轴瓦	zhu zhou wa	1
+曲轴瓦	qu zhou wa	1
+滚针轴承	gun zhen zhou cheng	1
+脉冲发生轮	mai chong fa sheng lun	1
+连杆瓦	lian gan wa	1
+连杆衬套	lian gan chen tao	1
+连杆螺栓	lian gan luo shuan	1
+连杆	lian gan	1
+齿形皮带轮	chi xing pi dai lun	1
+沉头螺栓	chen tou luo shuan	1
+曲轴分油齿轮	qu zhou fen you chi lun	1
+曲轴	qu zhou	1
+圆形密封环	yuan xing mi feng huan	1
+卡箍	ka gu	1
+固定弹簧	gu ding tan huang	1
+通风软管	tong feng ruan guan	1
+通风管	tong feng guan	1
+汽缸垫	qi gang dian	1
+霍尔传感器	huo er chuan gan qi	1
+机油加注口盖	ji you jia zhu kou gai	1
+挡油板	dang you ban	1
+气门室罩盖	qi men shi zhao gai	1
+汽缸盖罩盖	qi gang gai zhao gai	1
+汽缸盖罩密封组件	qi gang gai zhao mi feng zu jian	1
+圆柱螺栓	yuan zhu luo shuan	1
+内多齿头	nei duo chi tou	1
+汽缸盖	qi gang gai	1
+变速箱紧固件	bian su xiang jin gu jian	1
+漏斗	lou dou	1
+机油尺插管	ji you chi cha guan	1
+中间板	zhong jian ban	1
+防油溅挡板	fang you jian dang ban	1
+圆柱销	yuan zhu xiao	1
+密封法兰	mi feng fa lan	1
+径向轴密封	jing xiang zhou mi feng	1
+机油喷嘴	ji you pen zui	1
+超压调节阀	chao ya tiao jie fa	1
+脉冲传感器	mai chong chuan gan qi	1
+短发动机	duan fa dong ji	1
+发动机总成	fa dong ji zong cheng	1
+发动机	fa dong ji	1
+后桥	hou qiao	1
+车架	che jia	1
+车身	che shen	1

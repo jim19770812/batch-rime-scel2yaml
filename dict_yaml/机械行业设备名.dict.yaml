@@ -1,0 +1,198 @@
+---
+name: 机械行业设备名
+version: "20220504"
+sort: by_weight
+use_preset_vocabulary: true
+...
+拉丝机	la si ji	1
+挖掘机	wa jue ji	1
+铸造机	zhu zao ji	1
+验钞机	yan chao ji	1
+点钞机	dian chao ji	1
+扎把机	zha ba ji	1
+捆钞机	kun chao ji	1
+保险柜	bao xian gui	1
+标价机	biao jia ji	1
+扎口机	zha kou ji	1
+购物篮	gou wu lan	1
+促销台	cu xiao tai	1
+展示柜	zhan shi gui	1
+展示架	zhan shi jia	1
+收银台	shou yin tai	1
+热电偶	re dian ou	1
+热电阻	re dian zu	1
+电热线	dian re xian	1
+电热片	dian re pian	1
+发热芯	fa re xin	1
+电热圈	dian re quan	1
+电热器	dian re qi	1
+电热膜	dian re mo	1
+电热带	dian re dai	1
+电热丝	dian re si	1
+电热板	dian re ban	1
+发热盘	fa re pan	1
+电热盘	dian re pan	1
+发热管	fa re guan	1
+电热管	dian re guan	1
+传感器	chuan gan qi	1
+熔接机	rong jie ji	1
+振动盘	zhen dong pan	1
+打胶机	da jiao ji	1
+热压机	re ya ji	1
+压接机	ya jie ji	1
+端子机	duan zi ji	1
+跳线机	tiao xian ji	1
+蚀刻机	shi ke ji	1
+贴片机	tie pian ji	1
+邦定机	bang ding ji	1
+绞线机	jiao xian ji	1
+绕线机	rao xian ji	1
+充磁机	chong ci ji	1
+剥线机	bo xian ji	1
+焊管机	han guan ji	1
+塑焊机	su han ji	1
+焊线机	han xian ji	1
+压焊机	ya han ji	1
+焊锡机	han xi ji	1
+点焊机	dian han ji	1
+焊接机	han jie ji	1
+碰焊机	peng han ji	1
+储能机	chu neng ji	1
+滚焊机	gun han ji	1
+排焊机	pai han ji	1
+焊台	han tai	1
+风管	feng guan	1
+风叶	feng ye	1
+压缩机	ya suo ji	1
+风幕机	feng mu ji	1
+通风机	tong feng ji	1
+鼓风机	gu feng ji	1
+滤板	lv ban	1
+滤袋	lv dai	1
+滤筒	lv tong	1
+滤网	lv wang	1
+滤片	lv pian	1
+滤膜	lv mo	1
+滤料滤芯	lv liao lv xin	1
+滤油机	lv you ji	1
+过滤器	guo lv qi	1
+过滤机	guo lv ji	1
+齿轮箱	chi lun xiang	1
+联轴器	lian zhou qi	1
+蜗杆	wo gan	1
+蜗轮	wo lun	1
+带轮	dai lun	1
+传动链	chuan dong lian	1
+链轮	lian lun	1
+齿轮	chi lun	1
+传动带	chuan dong dai	1
+磁力泵	ci li beng	1
+往复泵	wang fu beng	1
+真空泵	zhen kong beng	1
+混流泵	hun liu beng	1
+漩涡泵	xuan wo beng	1
+潜水泵	qian shui beng	1
+杂质泵	za zhi beng	1
+污水泵	wu shui beng	1
+油泵	you beng	1
+离心泵	li xin beng	1
+流程泵	liu cheng beng	1
+计量泵	ji liang beng	1
+增压泵	zeng ya beng	1
+轴流泵	zhou liu beng	1
+自吸泵	zi xi beng	1
+屏蔽泵	ping bi beng	1
+齿轮泵	chi lun beng	1
+排污泵	pai wu beng	1
+高压泵	gao ya beng	1
+涡流泵	wo liu beng	1
+柱塞泵	zhu sai beng	1
+隔膜泵	ge mo beng	1
+空调泵	kong tiao beng	1
+试压泵	shi ya beng	1
+消防泵	xiao fang beng	1
+管道泵	guan dao beng	1
+换向阀	huan xiang fa	1
+电磁阀	dian ci fa	1
+排污阀	pai wu fa	1
+底阀	di fa	1
+调节阀	tiao jie fa	1
+疏水阀	shu shui fa	1
+安全阀	an quan fa	1
+减压阀	jian ya fa	1
+止回阀	zhi hui fa	1
+蝶阀	die fa	1
+球阀	qiu fa	1
+旋塞阀	xuan sai fa	1
+隔膜阀	ge mo fa	1
+柱塞阀	zhu sai fa	1
+仪表阀	yi biao fa	1
+节流阀	jie liu fa	1
+截止阀	jie zhi fa	1
+闸阀	zha fa	1
+手动阀	shou dong fa	1
+放料阀	fang liao fa	1
+气动阀	qi dong fa	1
+膨胀阀	peng zhang fa	1
+单向阀	dan xiang fa	1
+角阀	jiao fa	1
+脚踏阀	jiao ta fa	1
+针阀	zhen fa	1
+阀体	fa ti	1
+插床	cha chuang	1
+刨床	bao chuang	1
+拉床	la chuang	1
+锯床	ju chuang	1
+磨床	mo chuang	1
+镗床	tang chuang	1
+钻床	zuan chuang	1
+铣床	xi chuang	1
+车床	che chuang	1
+起重机	qi zhong ji	1
+打钉机	da ding ji	1
+结帮机	jie bang ji	1
+后帮机	hou bang ji	1
+前帮机	qian bang ji	1
+钉跟机	ding gen ji	1
+压合机	ya he ji	1
+压底机	ya di ji	1
+鞋眼机	xie yan ji	1
+分纸机	fen zhi ji	1
+开槽机	kai cao ji	1
+分切机	fen qie ji	1
+复合机	fu he ji	1
+折页机	zhe ye ji	1
+压纹机	ya wen ji	1
+压痕机	ya hen ji	1
+模切机	mu qie ji	1
+烫金机	tang jin ji	1
+上光机	shang guang ji	1
+覆膜机	fu mo ji	1
+装订机	zhuang ding ji	1
+裁断机	cai duan ji	1
+刻楦机	ke xuan ji	1
+挤水机	ji shui ji	1
+量革机	liang ge ji	1
+剖层机	pou ceng ji	1
+片皮机	pian pi ji	1
+压花机	ya hua ji	1
+线槽	xian cao	1
+桥架	qiao jia	1
+起动器	qi dong qi	1
+继电器	ji dian qi	1
+电抗器	dian kang qi	1
+电磁铁	dian ci tie	1
+扫地机	sao di ji	1
+洗地机	xi di ji	1
+沉淀池	chen dian chi	1
+滗水器	bi shui qi	1
+柔印机	rou yin ji	1
+移印机	yi yin ji	1
+丝印机	si yin ji	1
+胶印机	jiao yin ji	1
+干燥机	gan zao ji	1
+杀菌机	sha jun ji	1
+喷码机	pen ma ji	1
+打码机	da ma ji	1
+吹膜机	chui mo ji	1
+注塑机	zhu su ji	1
